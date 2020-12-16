@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Raw use of parameterized class 'Callable'" />
       <item value="'static' method declared 'final'" />
       <item value="run For Multiple Inputs Outputs" />
       <item value="outputs For Predict" />
@@ -50,12 +51,11 @@
       <item value="NO WRAP" />
       <item value="NO PADDING" />
       <item value="This is an algorithm-specific metric, * specified in number of bits." />
-      <item value="Secrete Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />

@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '...\bitAuto-sdk\bitAuto_core [ans-android-sdk.bitAuto_core]'" />
-    <option name="defaultScopeName" value="Directory '...\bitAuto-sdk\bitAuto_core [ans-android-sdk.bitAuto_core]'" />
+    <option name="customScope" value="File '...\bitAuto-sdk\bitAuto_core\src\main\java\com\bitAuto\utils\WorkThreadPool.java [ans-android-sdk.bitAuto_core]'" />
+    <option name="defaultScopeName" value="File '...\bitAuto-sdk\bitAuto_core\src\main\java\com\bitAuto\utils\WorkThreadPool.java [ans-android-sdk.bitAuto_core]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\bitAuto-sdk\bitAuto_core [ans-android-sdk.bitAuto_core]'" />
+    <option name="SEARCH_SCOPE" value="File '...\bitAuto-sdk\bitAuto_core\src\main\java\com\bitAuto\utils\WorkThreadPool.java [ans-android-sdk.bitAuto_core]'" />
   </component>
 </application>
