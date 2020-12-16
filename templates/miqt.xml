@@ -1,0 +1,22 @@
+<templateSet group="miqt">
+  <template name="/class" value="/**&#10; * @Copyright © 2020 BitAuto Inc. All rights reserved.&#10; * @Description: todo&#10; * @Version: 1.0&#10; * @CreateDate: $DATE$ $TIME$&#10; * @Author: miqt&#10; * @mail: miqt@yiche.com&#10; */" description="类注释" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/danli" value="private static volatile $className$ instance;&#10;&#10;private $className$() {&#10;}&#10;&#10;public static $className$ getInstance() {&#10;    if (instance == null) {&#10;        synchronized ($className$.class) {&#10;            if (instance == null) {&#10;                instance = new $className$();&#10;            }&#10;        }&#10;    }&#10;    return instance;&#10;}" description="单例" toReformat="false" toShortenFQNames="false">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="/class_self" value="/**&#10; * @Copyright © 2020 MiQt Inc. All rights reserved.&#10; * @Description: todo&#10; * @Version: 1.0&#10; * @CreateDate: $DATE$ $TIME$&#10; * @Author: miqt&#10; * @mail: miqtdev@163.com&#10; */" description="类注释个人" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

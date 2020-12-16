@@ -1,0 +1,74 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="'static' method declared 'final'" />
+      <item value="run For Multiple Inputs Outputs" />
+      <item value="outputs For Predict" />
+      <item value="BOTTLENECK SIZE" />
+      <item value="style Bottleneck" />
+      <item value="full Execution Time" />
+      <item value="CONTENT IMAGE SIZE" />
+      <item value="STYLE IMAGE SIZE" />
+      <item value="Executor Coroutine Dispatcher" />
+      <item value="style Predict Time" />
+      <item value="Style Transfer Model Executor" />
+      <item value="interpreter Transform" />
+      <item value="interpreter Predict" />
+      <item value="depends On" />
+      <item value="when Task Added" />
+      <item value="undercouch" />
+      <item value="distinct id" />
+      <item value="anonymous id" />
+      <item value="SDK is disabled,scan code function has been turned off" />
+      <item value="visualized" />
+      <item value="alloc Row" />
+      <item value="Unchecked cast: 'java.lang.String' to 'T'" />
+      <item value="Drops underlying database table using DAOs" />
+      <item value="WARNING: Drops all table on Upgrade! Use only during development. * Convenience method using a {@link DevOpenHelper}." />
+      <item value="App Bar Overlay" />
+      <item value="Light" />
+      <item value="Dark" />
+      <item value="This static member will be evaluated when first used." />
+      <item value="Unchecked call to 'isAssignableFrom(Class&lt;?&gt;)' as a member of raw type 'java.lang.Class'" />
+      <item value="Illegal Access Exception" />
+      <item value="deviate from the original by checking all Numbers, not just floats &amp; doubles" />
+      <item value="is Synthetic" />
+      <item value="is Member Class" />
+      <item value="is Local Class" />
+      <item value="is Primitive" />
+      <item value="is Anonymous Class" />
+      <item value="ECB encryption mode should not be used" />
+      <item value="tokenized Transformation" />
+      <item value="check Bouncy Castle Deprecation" />
+      <item value="Returns the provider of this &lt;code&gt;Cipher&lt;/code&gt; object." />
+      <item value="This version of the Android Support plugin for IntelliJ IDEA (or Android Studio) cannot open this project, please retry with version 4.1 or newer." />
+      <item value="try Combinations" />
+      <item value="if this cipher is in decryption mode, * and (un)padding has been requested, but the decrypted data is not * bounded by the appropriate padding bytes" />
+      <item value="Row too big to fit into CursorWindow requiredPos=5, totalRows=6" />
+      <item value="SQ Lite Blob Too Big Exception" />
+      <item value="CRLF" />
+      <item value="NO WRAP" />
+      <item value="NO PADDING" />
+      <item value="This is an algorithm-specific metric, * specified in number of bits." />
+      <item value="Secrete Key" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
+        <entry key="GERMAN" value="1" />
+        <entry key="CZECH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="SLOVENIAN" value="1" />
+        <entry key="SWAHILI" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1608023827018" />
+  </component>
+</application>
