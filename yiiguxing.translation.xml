@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="File Lock Interruption Exception" />
+      <item value="is Interrupted" />
+      <item value="interrupt" />
       <item value="batch" />
       <item value="批次" />
       <item value="new Single Thread Executor" />
@@ -48,14 +51,11 @@
       <item value="check Bouncy Castle Deprecation" />
       <item value="Returns the provider of this &lt;code&gt;Cipher&lt;/code&gt; object." />
       <item value="This version of the Android Support plugin for IntelliJ IDEA (or Android Studio) cannot open this project, please retry with version 4.1 or newer." />
-      <item value="try Combinations" />
-      <item value="if this cipher is in decryption mode, * and (un)padding has been requested, but the decrypted data is not * bounded by the appropriate padding bytes" />
-      <item value="Row too big to fit into CursorWindow requiredPos=5, totalRows=6" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
