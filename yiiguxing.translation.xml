@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Track Click Ann On Class" />
+      <item value="m Name" />
+      <item value="m Owner" />
       <item value="make" />
       <item value="File Lock Interruption Exception" />
       <item value="is Interrupted" />
@@ -48,14 +51,11 @@
       <item value="is Primitive" />
       <item value="is Anonymous Class" />
       <item value="ECB encryption mode should not be used" />
-      <item value="tokenized Transformation" />
-      <item value="check Bouncy Castle Deprecation" />
-      <item value="Returns the provider of this &lt;code&gt;Cipher&lt;/code&gt; object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
