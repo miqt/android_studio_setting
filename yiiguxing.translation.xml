@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Track Pv Ann" />
+      <item value="agent Opcode Ext" />
+      <item value="ICONST_1" />
+      <item value="has Ignore Pv Ann" />
       <item value="has Track Click Ann On Class" />
       <item value="m Name" />
       <item value="m Owner" />
@@ -47,15 +51,11 @@
       <item value="deviate from the original by checking all Numbers, not just floats &amp; doubles" />
       <item value="is Synthetic" />
       <item value="is Member Class" />
-      <item value="is Local Class" />
-      <item value="is Primitive" />
-      <item value="is Anonymous Class" />
-      <item value="ECB encryption mode should not be used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
