@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsupported Operation Exception" />
       <item value="constance" />
       <item value="has Track Pv Ann" />
       <item value="agent Opcode Ext" />
@@ -50,12 +51,11 @@
       <item value="Unchecked call to 'isAssignableFrom(Class&lt;?&gt;)' as a member of raw type 'java.lang.Class'" />
       <item value="Illegal Access Exception" />
       <item value="deviate from the original by checking all Numbers, not just floats &amp; doubles" />
-      <item value="is Synthetic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
