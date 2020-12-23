@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to load class 'org.gradle.api.internal.java.usagecontext.LazyConfigurationUsageContext'. This is an unexpected error. Please file a bug containing the idea.log file." />
+      <item value="'buildSrc' cannot be used as a project name as it is a reserved name" />
       <item value="singleton" />
       <item value="Unsupported Operation Exception" />
       <item value="constance" />
@@ -49,13 +51,11 @@
       <item value="Light" />
       <item value="Dark" />
       <item value="This static member will be evaluated when first used." />
-      <item value="Unchecked call to 'isAssignableFrom(Class&lt;?&gt;)' as a member of raw type 'java.lang.Class'" />
-      <item value="Illegal Access Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
