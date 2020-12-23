@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="task Affinity" />
       <item value="Cannot use project dependencies in a script classpath definition." />
       <item value="A problem occurred evaluating root project 'MethodHookTool'." />
       <item value="Unable to load class 'org.gradle.api.internal.java.usagecontext.LazyConfigurationUsageContext'. This is an unexpected error. Please file a bug containing the idea.log file." />
@@ -50,12 +51,11 @@
       <item value="Drops underlying database table using DAOs" />
       <item value="WARNING: Drops all table on Upgrade! Use only during development. * Convenience method using a {@link DevOpenHelper}." />
       <item value="App Bar Overlay" />
-      <item value="Light" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
