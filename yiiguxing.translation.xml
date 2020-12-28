@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="react" />
+      <item value="opacity On Hover" />
+      <item value="opacity Default" />
       <item value="Exception In Initializer Error" />
       <item value="Progress" />
       <item value="get Path Strategy" />
@@ -48,14 +51,11 @@
       <item value="undercouch" />
       <item value="distinct id" />
       <item value="anonymous id" />
-      <item value="SDK is disabled,scan code function has been turned off" />
-      <item value="visualized" />
-      <item value="alloc Row" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608542940318" />
+    <option name="lastTrimTime" value="1609141159844" />
   </component>
 </application>
