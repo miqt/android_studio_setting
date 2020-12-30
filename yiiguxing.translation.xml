@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MEDIA UNKNOWN" />
       <item value="on Denied" />
       <item value="on Granted" />
       <item value="MANAGE EXTERNAL STORAGE" />
@@ -50,12 +51,11 @@
       <item value="interpreter Transform" />
       <item value="interpreter Predict" />
       <item value="depends On" />
-      <item value="when Task Added" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
