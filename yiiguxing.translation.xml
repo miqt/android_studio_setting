@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACTION ZEN MODE SETTINGS" />
+      <item value="ACTION PRINT SETTINGS" />
+      <item value="ACTION CAPTIONING SETTINGS" />
+      <item value="ACTION CAST SETTINGS" />
       <item value="MEDIA UNKNOWN" />
       <item value="on Denied" />
       <item value="on Granted" />
@@ -47,15 +51,11 @@
       <item value="STYLE IMAGE SIZE" />
       <item value="Executor Coroutine Dispatcher" />
       <item value="style Predict Time" />
-      <item value="Style Transfer Model Executor" />
-      <item value="interpreter Transform" />
-      <item value="interpreter Predict" />
-      <item value="depends On" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
