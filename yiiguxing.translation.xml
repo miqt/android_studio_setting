@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Denied" />
+      <item value="on Granted" />
+      <item value="MANAGE EXTERNAL STORAGE" />
       <item value="react" />
       <item value="opacity On Hover" />
       <item value="opacity Default" />
@@ -48,14 +51,11 @@
       <item value="interpreter Predict" />
       <item value="depends On" />
       <item value="when Task Added" />
-      <item value="undercouch" />
-      <item value="distinct id" />
-      <item value="anonymous id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
