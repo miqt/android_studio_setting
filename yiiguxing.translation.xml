@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Call Once Accessibility Listener" />
+      <item value="is Root View Alive" />
+      <item value="on Global Layout" />
+      <item value="View Tree Observer" />
       <item value="SCOPE FULL PROJECT" />
       <item value="ACTION ZEN MODE SETTINGS" />
       <item value="ACTION PRINT SETTINGS" />
@@ -47,15 +51,11 @@
       <item value="outputs For Predict" />
       <item value="BOTTLENECK SIZE" />
       <item value="style Bottleneck" />
-      <item value="full Execution Time" />
-      <item value="CONTENT IMAGE SIZE" />
-      <item value="STYLE IMAGE SIZE" />
-      <item value="Executor Coroutine Dispatcher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
