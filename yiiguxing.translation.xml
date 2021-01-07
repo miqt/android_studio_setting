@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default compression strategy." />
+      <item value="Default compression level." />
+      <item value="NO COMPRESSION" />
+      <item value="BEST SPEED" />
+      <item value="BEST COMPRESSION" />
       <item value="track Menu Item" />
       <item value="Deflater" />
       <item value="Deflater Output Stream" />
-      <item value="BEST COMPRESSION" />
       <item value="DEFLATED" />
-      <item value="NO COMPRESSION" />
-      <item value="BEST SPEED" />
-      <item value="Default compression level." />
       <item value="Compression level" />
       <item value="FILTERED" />
       <item value="DEFAULT COMPRESSION" />
@@ -50,12 +51,11 @@
       <item value="make" />
       <item value="File Lock Interruption Exception" />
       <item value="is Interrupted" />
-      <item value="interrupt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
