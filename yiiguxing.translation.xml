@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="禁止数据采集" />
       <item value="get Always Allowed SSL Socket Factory" />
       <item value="BEST COMPRESSION" />
       <item value="Compression method for the deflate algorithm (the only one currently supported)." />
@@ -50,11 +51,10 @@
       <item value="ICONST_1" />
       <item value="has Ignore Pv Ann" />
       <item value="has Track Click Ann On Class" />
-      <item value="m Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
+        <entry key="CHINESE" value="294" />
         <entry key="ENGLISH" value="294" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609730942003" />
+    <option name="lastTrimTime" value="1610348205878" />
   </component>
 </application>
