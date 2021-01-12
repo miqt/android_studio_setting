@@ -1,6 +1,33 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="716" />
+    <option name="newTranslationDialogX" value="1105" />
+    <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="selected region does not have full tracking ,data may be inaccurate" />
+      <item value="selected region does not have full tracking ,data may be inaccura" />
+      <item value="selected region does not have full tracking ,data may be inaccu" />
+      <item value="selected region does not have full tracking ,data may be inacc" />
+      <item value="selected region does not have full tracking ,data may be in" />
+      <item value="selected region does not have full tracking ,data may be " />
+      <item value="selected region does not have full tracking ,data may b" />
+      <item value="selected region does not have full tracking ,data ma" />
+      <item value="selected region does not have full tracking ,data" />
+      <item value="selected region does not have full tracking " />
+      <item value="selected region does not have full trac" />
+      <item value="selected region does not have full tr" />
+      <item value="selected region does not have full " />
+      <item value="selected region does not have " />
+      <item value="selected region does not hava" />
+      <item value="selected region does not ha" />
+      <item value="selected region does " />
+      <item value="selected region dos" />
+      <item value="selected region de" />
+      <item value="selected regi" />
+      <item value="selected regin" />
+      <item value="selected " />
+      <item value="selec" />
+      <item value="se" />
       <item value="SpUtils.getBoolean(context, Constants.SP_ENABLE_DATA_COLLECT, true);" />
       <item value="禁止数据采集" />
       <item value="get Always Allowed SSL Socket Factory" />
@@ -27,30 +54,6 @@
       <item value="ACTION ZEN MODE SETTINGS" />
       <item value="ACTION PRINT SETTINGS" />
       <item value="ACTION CAPTIONING SETTINGS" />
-      <item value="ACTION CAST SETTINGS" />
-      <item value="MEDIA UNKNOWN" />
-      <item value="on Denied" />
-      <item value="on Granted" />
-      <item value="MANAGE EXTERNAL STORAGE" />
-      <item value="react" />
-      <item value="opacity On Hover" />
-      <item value="opacity Default" />
-      <item value="Exception In Initializer Error" />
-      <item value="Progress" />
-      <item value="get Path Strategy" />
-      <item value="grant Uri Permissions" />
-      <item value="task Affinity" />
-      <item value="Cannot use project dependencies in a script classpath definition." />
-      <item value="A problem occurred evaluating root project 'MethodHookTool'." />
-      <item value="Unable to load class 'org.gradle.api.internal.java.usagecontext.LazyConfigurationUsageContext'. This is an unexpected error. Please file a bug containing the idea.log file." />
-      <item value="'buildSrc' cannot be used as a project name as it is a reserved name" />
-      <item value="singleton" />
-      <item value="Unsupported Operation Exception" />
-      <item value="constance" />
-      <item value="has Track Pv Ann" />
-      <item value="agent Opcode Ext" />
-      <item value="ICONST_1" />
-      <item value="has Ignore Pv Ann" />
     </histories>
     <option name="languageScores">
       <map>
