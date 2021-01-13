@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="repositories" />
       <item value="selected region does not have full tracking ,data may be inaccurate" />
       <item value="selected region does not have full tracking ,data may be inaccura" />
       <item value="selected region does not have full tracking ,data may be inaccu" />
@@ -53,12 +54,11 @@
       <item value="SCOPE FULL PROJECT" />
       <item value="ACTION ZEN MODE SETTINGS" />
       <item value="ACTION PRINT SETTINGS" />
-      <item value="ACTION CAPTIONING SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
