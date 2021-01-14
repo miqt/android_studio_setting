@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="dependencies" />
+      <item value="Extension Container" />
       <item value="get Invocation" />
       <item value="Returns the name of the variant." />
       <item value="Returns the single element matching the given [predicate], or throws exception if there is no or more than one matching element." />
@@ -19,7 +21,6 @@
       <item value="Transform Configuration" />
       <item value="The option setting 'android.enableD8.desugaring=false' is experimental and unsupported." />
       <item value="relative Path" />
-      <item value="dependencies" />
       <item value="get Extensions" />
       <item value="get Artifacts" />
       <item value="project.get Buildscript()" />
@@ -53,12 +54,11 @@
       <item value="selected region does not ha" />
       <item value="selected region does " />
       <item value="selected region dos" />
-      <item value="selected region de" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
