@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="does not yet support incremental build" />
       <item value="before Transform" />
       <item value="after Transform" />
       <item value="is Incremental" />
@@ -53,12 +54,11 @@
       <item value="SpUtils.getBoolean(context, Constants.SP_ENABLE_DATA_COLLECT, true);" />
       <item value="禁止数据采集" />
       <item value="get Always Allowed SSL Socket Factory" />
-      <item value="BEST COMPRESSION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="317" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
