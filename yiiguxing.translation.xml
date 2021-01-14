@@ -4,9 +4,11 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="dependencies" />
+      <item value="Returns the LoggingManager which can be used to control the logging level and standard outputerror capture for this task. By default, System.out is redirected to the Gradle logging system at the QUIET log level, and System.err is redirected at the ERROR log level. @return the LoggingManager. Never returns null." />
+      <item value="the path to the transform code jar." />
       <item value="Custom Class Transform" />
       <item value="A transform that provides a simple API for transforming all the user classes. It only requires a function to transform from an {@link InputStream} to an {@link OutputStream} which will be run for every class. This transform takes care of all the incremental and jar vs class details. &lt;p&gt;This transform is created with a path to the .jar that provides its actual implementation. The jar must follow the following convention: &lt;p&gt;1) Expose a service of type BiConsumer&lt;InputStream, OutputStream&gt;. This function will be used invoked to transform a .class file. 2) To output additional classes as a result of the output, they will be looked for as resources in the given jar. All jars found in the &quot;dependencies&quot; resource directory will be output." />
-      <item value="dependencies" />
       <item value="Extension Container" />
       <item value="get Invocation" />
       <item value="Returns the name of the variant." />
@@ -52,13 +54,11 @@
       <item value="selected region does not have full tr" />
       <item value="selected region does not have full " />
       <item value="selected region does not have " />
-      <item value="selected region does not hava" />
-      <item value="selected region does not ha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
