@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="dependencies" />
       <item value="get Extensions" />
       <item value="get Artifacts" />
       <item value="project.get Buildscript()" />
@@ -53,12 +54,11 @@
       <item value="NO COMPRESSION" />
       <item value="Compression method (CM)" />
       <item value="sync Flush" />
-      <item value="Default compression strategy." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
