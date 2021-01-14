@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="xxx" description="xxx" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="gradlew clean :example:assembleDouyinCnRelease -Dorg.gradle.debug=true --no-daemon " />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
