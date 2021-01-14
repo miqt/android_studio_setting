@@ -1,15 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="716" />
+    <option name="newTranslationDialogWidth" value="712" />
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="before Transform" />
+      <item value="after Transform" />
+      <item value="is Incremental" />
+      <item value="Transform Configuration" />
+      <item value="The option setting 'android.enableD8.desugaring=false' is experimental and unsupported." />
+      <item value="relative Path" />
       <item value="dependencies" />
       <item value="get Extensions" />
       <item value="get Artifacts" />
       <item value="project.get Buildscript()" />
       <item value="provider" />
-      <item value="relative Path" />
       <item value="evaluation" />
       <item value="evaluation Depends On" />
       <item value="get Display Name" />
@@ -49,16 +54,11 @@
       <item value="禁止数据采集" />
       <item value="get Always Allowed SSL Socket Factory" />
       <item value="BEST COMPRESSION" />
-      <item value="Compression method for the deflate algorithm (the only one currently supported)." />
-      <item value="BEST SPEED" />
-      <item value="NO COMPRESSION" />
-      <item value="Compression method (CM)" />
-      <item value="sync Flush" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
@@ -74,5 +74,18 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1610348205878" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="7a4dd746f1c5fe26" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
