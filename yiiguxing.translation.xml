@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="single" />
+      <item value="get Flavor Name" />
+      <item value="get Variant" />
+      <item value="set Proguard Map" />
+      <item value="set Cl Init Only" />
       <item value="does not yet support incremental build" />
       <item value="before Transform" />
       <item value="after Transform" />
@@ -49,16 +54,11 @@
       <item value="selected regi" />
       <item value="selected regin" />
       <item value="selected " />
-      <item value="selec" />
-      <item value="se" />
-      <item value="SpUtils.getBoolean(context, Constants.SP_ENABLE_DATA_COLLECT, true);" />
-      <item value="禁止数据采集" />
-      <item value="get Always Allowed SSL Socket Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
