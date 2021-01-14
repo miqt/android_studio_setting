@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="get Invocation" />
+      <item value="Returns the name of the variant." />
+      <item value="Returns the single element matching the given [predicate], or throws exception if there is no or more than one matching element." />
       <item value="single" />
       <item value="get Flavor Name" />
       <item value="get Variant" />
@@ -51,14 +54,11 @@
       <item value="selected region does " />
       <item value="selected region dos" />
       <item value="selected region de" />
-      <item value="selected regi" />
-      <item value="selected regin" />
-      <item value="selected " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
