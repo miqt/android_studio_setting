@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="get Variant Name" />
+      <item value="Returns the name of the variant." />
       <item value="read Exactly N Bytes" />
       <item value="incremental" />
       <item value="The file was removed since the last build." />
@@ -22,7 +24,6 @@
       <item value="A transform that provides a simple API for transforming all the user classes. It only requires a function to transform from an {@link InputStream} to an {@link OutputStream} which will be run for every class. This transform takes care of all the incremental and jar vs class details. &lt;p&gt;This transform is created with a path to the .jar that provides its actual implementation. The jar must follow the following convention: &lt;p&gt;1) Expose a service of type BiConsumer&lt;InputStream, OutputStream&gt;. This function will be used invoked to transform a .class file. 2) To output additional classes as a result of the output, they will be looked for as resources in the given jar. All jars found in the &quot;dependencies&quot; resource directory will be output." />
       <item value="Extension Container" />
       <item value="get Invocation" />
-      <item value="Returns the name of the variant." />
       <item value="Returns the single element matching the given [predicate], or throws exception if there is no or more than one matching element." />
       <item value="single" />
       <item value="get Flavor Name" />
@@ -53,12 +54,11 @@
       <item value="repositories" />
       <item value="selected region does not have full tracking ,data may be inaccurate" />
       <item value="selected region does not have full tracking ,data may be inaccura" />
-      <item value="selected region does not have full tracking ,data may be inaccu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="349" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
