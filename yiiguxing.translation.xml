@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="Extension" />
       <item value="Unsupported class file major version 29556" />
       <item value="noinspection" />
       <item value="get Variant Name" />
@@ -53,12 +54,11 @@
       <item value="quiet" />
       <item value="Cannot constrain type: INT for value: v40(checkpoint) by constraint: OBJECT" />
       <item value="Project directory 'E:\android_proj\ASMCode\methodhook' is not part of the build defined by settings file 'E:\android_proj\ASMCode\settings.gradle'. If this is an unrelated build, it must have its own settings file." />
-      <item value="repositories" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610348205878" />
+    <option name="lastTrimTime" value="1610937768869" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
