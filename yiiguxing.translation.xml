@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="get Listener Info" />
       <item value="auto Installation" />
       <item value="shortest" />
       <item value="prefix" />
@@ -53,12 +54,11 @@
       <item value="evaluation Depends On" />
       <item value="get Display Name" />
       <item value="get Root Dir" />
-      <item value="getRootProject getRootDir getBuildDir setBuildDir setBuildDir getBuildFile getParent getName getDisplayName getDescription setDescription getGroup setGroup getVersion setVersion getStatus setStatus getChildProjects setProperty getProject getAllprojects getSubprojects task task task task task getPath getDefaultTasks setDefaultTasks defaultTasks evaluationDependsOn evaluationDependsOnChildren findProject project project project getAllTasks getTasksByName getProjectDir file file uri relativePath files files files fileTree fileTree fileTree fileTree zipTree tarTree provider getProviders getObjects getLayout mkdir delete delete javaexec javaexec exec exec absoluteProjectPath relativeProjectPath getAnt createAntBuilder ant ant getConfigurations configurations getArtifacts artifacts artifacts getConvention depthCompare getDepth getTasks subprojects subprojects allprojects allprojects beforeEvaluate afterEvaluate beforeEvaluate afterEvaluate hasProperty getProperties property findProperty getLogger getGradle getLogging configure configure configure getRepositories repositories getDependencies dependencies getBuildscript buildscript copy copy copySpec copySpec copySpec sync getState container container container getExtensions getResources getComponents getNormalization normalization dependencyLocking getDependencyLocking DEFAULT_BUILD_FILE PATH_SEPARATOR DEFAULT_BUILD_DIR_NAME GRADLE_PROPERTIES SYSTEM_PROP_PREFIX DEFAULT_VERSION DEFAULT_STATUS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
