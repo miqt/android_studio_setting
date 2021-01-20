@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="Success! Don't release the provider when exiting, let ParcelFileDescriptorInner do that when it is closed." />
+      <item value="SCHEME ANDROID RESOURCE" />
+      <item value="register Content Observer" />
+      <item value="designated user version" />
+      <item value="build Upon" />
+      <item value="notify For Descendants" />
+      <item value="The handler to run {@link onChange} on, or null if none." />
+      <item value="user Handle" />
+      <item value="When false, the observer will be notified whenever a change occurs to the exact URI specified by &lt;code&gt;uri&lt;code&gt; or to one of the URI's ancestors in the path hierarchy. When true, the observer will also be notified whenever a change occurs to the URI's descendants in the path hierarchy." />
       <item value="Unchecked call to 'getDeclaredMethod(String, Class&lt;?&gt;...)' as a member of raw type 'java.lang.Class' Accessing internal APIs via reflection is not supported and may not work on all devices or in the future" />
       <item value="denied" />
       <item value="get Listener Info" />
@@ -45,20 +54,11 @@
       <item value="before Transform" />
       <item value="after Transform" />
       <item value="is Incremental" />
-      <item value="Transform Configuration" />
-      <item value="The option setting 'android.enableD8.desugaring=false' is experimental and unsupported." />
-      <item value="relative Path" />
-      <item value="get Extensions" />
-      <item value="get Artifacts" />
-      <item value="project.get Buildscript()" />
-      <item value="provider" />
-      <item value="evaluation" />
-      <item value="evaluation Depends On" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
