@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="907" />
     <histories>
+      <item value="Unchecked call to 'getDeclaredMethod(String, Class&lt;?&gt;...)' as a member of raw type 'java.lang.Class' Accessing internal APIs via reflection is not supported and may not work on all devices or in the future" />
       <item value="denied" />
       <item value="get Listener Info" />
       <item value="auto Installation" />
@@ -53,12 +54,11 @@
       <item value="provider" />
       <item value="evaluation" />
       <item value="evaluation Depends On" />
-      <item value="get Display Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
