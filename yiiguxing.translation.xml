@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="The method name to appear in the trace." />
+      <item value="Unique identifier for distinguishing simultaneous events" />
+      <item value="Writes a trace message to indicate that a given section of code has begun. Must be followed by a call to {@link endAsyncSection(String, int)} with the same methodName and cookie. Unlike {@link beginSection(String)} and {@link endSection()}, asynchronous events do not need to be nested. The name and cookie used to begin an event must be used to end it." />
+      <item value="Writes trace message to indicate the value of a given counter." />
+      <item value="set Counter" />
       <item value="ListenData" />
       <item value="Listen" />
       <item value="耐心的倾听" />
@@ -50,16 +55,11 @@
       <item value="transforming" />
       <item value="dependencies" />
       <item value="Returns the LoggingManager which can be used to control the logging level and standard outputerror capture for this task. By default, System.out is redirected to the Gradle logging system at the QUIET log level, and System.err is redirected at the ERROR log level. @return the LoggingManager. Never returns null." />
-      <item value="the path to the transform code jar." />
-      <item value="Custom Class Transform" />
-      <item value="A transform that provides a simple API for transforming all the user classes. It only requires a function to transform from an {@link InputStream} to an {@link OutputStream} which will be run for every class. This transform takes care of all the incremental and jar vs class details. &lt;p&gt;This transform is created with a path to the .jar that provides its actual implementation. The jar must follow the following convention: &lt;p&gt;1) Expose a service of type BiConsumer&lt;InputStream, OutputStream&gt;. This function will be used invoked to transform a .class file. 2) To output additional classes as a result of the output, they will be looked for as resources in the given jar. All jars found in the &quot;dependencies&quot; resource directory will be output." />
-      <item value="Extension Container" />
-      <item value="get Invocation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
