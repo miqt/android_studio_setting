@@ -1,9 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="712" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="710" />
     <option name="newTranslationDialogX" value="1105" />
-    <option name="newTranslationDialogY" value="907" />
+    <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="ListenData" />
+      <item value="Listen" />
+      <item value="耐心的倾听" />
+      <item value="耐心的qin'ting" />
+      <item value="nai'xin" />
+      <item value="Data" />
+      <item value="ListenData&#10;" />
+      <item value="listenData&#10;" />
+      <item value="listen&#10;" />
+      <item value="listener" />
       <item value="Success! Don't release the provider when exiting, let ParcelFileDescriptorInner do that when it is closed." />
       <item value="SCHEME ANDROID RESOURCE" />
       <item value="register Content Observer" />
@@ -44,16 +55,6 @@
       <item value="A transform that provides a simple API for transforming all the user classes. It only requires a function to transform from an {@link InputStream} to an {@link OutputStream} which will be run for every class. This transform takes care of all the incremental and jar vs class details. &lt;p&gt;This transform is created with a path to the .jar that provides its actual implementation. The jar must follow the following convention: &lt;p&gt;1) Expose a service of type BiConsumer&lt;InputStream, OutputStream&gt;. This function will be used invoked to transform a .class file. 2) To output additional classes as a result of the output, they will be looked for as resources in the given jar. All jars found in the &quot;dependencies&quot; resource directory will be output." />
       <item value="Extension Container" />
       <item value="get Invocation" />
-      <item value="Returns the single element matching the given [predicate], or throws exception if there is no or more than one matching element." />
-      <item value="single" />
-      <item value="get Flavor Name" />
-      <item value="get Variant" />
-      <item value="set Proguard Map" />
-      <item value="set Cl Init Only" />
-      <item value="does not yet support incremental build" />
-      <item value="before Transform" />
-      <item value="after Transform" />
-      <item value="is Incremental" />
     </histories>
     <option name="languageScores">
       <map>
