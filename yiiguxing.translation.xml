@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="DOM storage" />
+      <item value="set Dom Storage Enabled" />
       <item value="set Java Script Can Open Windows Automatically" />
       <item value="Checks whether or not tracing is currently enabled. This is useful to avoid intermediate string creation for trace sections that require formatting. It is not necessary to guard all Trace method calls as they internally already check this. However it is recommended to use this to prevent creating any temporary objects that would then be passed to those methods to reduce runtime cost when tracing isn't enabled." />
       <item value="The name of the code section to appear in the trace. This may be at most 127 Unicode code units long." />
@@ -53,13 +55,11 @@
       <item value="The file was added since the last build." />
       <item value="he file was added since the last build." />
       <item value="The file was not changed since the last build." />
-      <item value="NOTCHANGED" />
-      <item value="for Each" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
