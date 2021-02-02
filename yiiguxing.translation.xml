@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="710" />
+    <option name="newTranslationDialogWidth" value="708" />
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Hybrid" />
       <item value="DOM storage" />
       <item value="set Dom Storage Enabled" />
       <item value="set Java Script Can Open Windows Automatically" />
@@ -54,7 +55,6 @@
       <item value="The file was modified since the last build." />
       <item value="The file was added since the last build." />
       <item value="he file was added since the last build." />
-      <item value="The file was not changed since the last build." />
     </histories>
     <option name="languageScores">
       <map>
