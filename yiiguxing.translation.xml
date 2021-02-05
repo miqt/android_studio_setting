@@ -5,8 +5,22 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
-      <item value="get Global Id" />
+      <item value="Toggler" />
       <item value="Toggler With Views" />
+      <item value="next Pass Invisible" />
+      <item value="view Tree Change Timer Toggler" />
+      <item value="get Fill After" />
+      <item value="get Animation" />
+      <item value="get Local Visible Rect" />
+      <item value="is View Self Visible" />
+      <item value="view Visibility In Parents" />
+      <item value="check View Visibility" />
+      <item value="on Global Window Focus Changed" />
+      <item value="Subscribe" />
+      <item value="check And Send View Tree Change" />
+      <item value="move Global Id" />
+      <item value="last Visible" />
+      <item value="get Global Id" />
       <item value="Scope" />
       <item value="View Tree Status Change Event" />
       <item value="get Variable" />
@@ -41,25 +55,11 @@
       <item value="Success! Don't release the provider when exiting, let ParcelFileDescriptorInner do that when it is closed." />
       <item value="SCHEME ANDROID RESOURCE" />
       <item value="register Content Observer" />
-      <item value="designated user version" />
-      <item value="build Upon" />
-      <item value="notify For Descendants" />
-      <item value="The handler to run {@link onChange} on, or null if none." />
-      <item value="user Handle" />
-      <item value="When false, the observer will be notified whenever a change occurs to the exact URI specified by &lt;code&gt;uri&lt;code&gt; or to one of the URI's ancestors in the path hierarchy. When true, the observer will also be notified whenever a change occurs to the URI's descendants in the path hierarchy." />
-      <item value="Unchecked call to 'getDeclaredMethod(String, Class&lt;?&gt;...)' as a member of raw type 'java.lang.Class' Accessing internal APIs via reflection is not supported and may not work on all devices or in the future" />
-      <item value="denied" />
-      <item value="get Listener Info" />
-      <item value="auto Installation" />
-      <item value="shortest" />
-      <item value="prefix" />
-      <item value="Javadoc if you would like to make your transform cacheable." />
-      <item value="Returns if this transform's outputs should be cached." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="410" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
