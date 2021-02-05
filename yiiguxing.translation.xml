@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="monitor View Tree Change" />
+      <item value="Internal Insets Info" />
+      <item value="Subscription" />
       <item value="check And Send View Tree Change" />
       <item value="m First Toggle Time" />
       <item value="add On Global Layout Listener" />
@@ -52,14 +55,11 @@
       <item value="耐心的qin'ting" />
       <item value="nai'xin" />
       <item value="Data" />
-      <item value="ListenData&#10;" />
-      <item value="listenData&#10;" />
-      <item value="listen&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="419" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
