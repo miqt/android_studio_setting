@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="get Global Id" />
+      <item value="Toggler With Views" />
+      <item value="Scope" />
       <item value="View Tree Status Change Event" />
       <item value="get Variable" />
       <item value="is Illegal Event Name" />
@@ -52,14 +55,11 @@
       <item value="prefix" />
       <item value="Javadoc if you would like to make your transform cacheable." />
       <item value="Returns if this transform's outputs should be cached." />
-      <item value="Extension" />
-      <item value="Unsupported class file major version 29556" />
-      <item value="noinspection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="394" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
