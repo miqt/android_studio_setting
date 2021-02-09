@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="When a database query is executed, the results returned are paginated in pages of size (in KB) indicated by this value" />
       <item value="required" />
       <item value="get Local Visible Rect" />
       <item value="monitor View Tree Change" />
@@ -54,12 +55,11 @@
       <item value="Listen" />
       <item value="耐心的倾听" />
       <item value="耐心的qin'ting" />
-      <item value="nai'xin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="421" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="422" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
