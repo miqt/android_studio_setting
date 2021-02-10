@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="708" />
+    <option name="newTranslationDialogWidth" value="706" />
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Nice" />
+      <item value="Nice Tool" />
+      <item value="NiceTool" />
       <item value="When a database query is executed, the results returned are paginated in pages of size (in KB) indicated by this value" />
       <item value="required" />
       <item value="get Local Visible Rect" />
@@ -52,9 +55,6 @@
       <item value="Writes trace message to indicate the value of a given counter." />
       <item value="set Counter" />
       <item value="ListenData" />
-      <item value="Listen" />
-      <item value="耐心的倾听" />
-      <item value="耐心的qin'ting" />
     </histories>
     <option name="languageScores">
       <map>
