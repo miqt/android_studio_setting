@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Automatic Acquisition" />
       <item value="extend Key" />
       <item value="try Get Location Ed" />
       <item value="batch" />
@@ -54,12 +55,11 @@
       <item value="section Name" />
       <item value="The method name to appear in the trace." />
       <item value="Unique identifier for distinguishing simultaneous events" />
-      <item value="Writes a trace message to indicate that a given section of code has begun. Must be followed by a call to {@link endAsyncSection(String, int)} with the same methodName and cookie. Unlike {@link beginSection(String)} and {@link endSection()}, asynchronous events do not need to be nested. The name and cookie used to begin an event must be used to end it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="425" />
+        <entry key="CHINESE" value="426" />
+        <entry key="ENGLISH" value="426" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
