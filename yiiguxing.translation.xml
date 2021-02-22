@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Boolean method 'checkTrackClickEnable' is always inverted" />
       <item value="Automatic Acquisition" />
       <item value="extend Key" />
       <item value="try Get Location Ed" />
@@ -54,12 +55,11 @@
       <item value="The name of the code section to appear in the trace. This may be at most 127 Unicode code units long." />
       <item value="section Name" />
       <item value="The method name to appear in the trace." />
-      <item value="Unique identifier for distinguishing simultaneous events" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="427" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
