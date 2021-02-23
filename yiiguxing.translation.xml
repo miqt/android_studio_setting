@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="track Fragment Set User Visible Hint" />
       <item value="Stay" />
       <item value="Boolean method 'checkTrackClickEnable' is always inverted" />
       <item value="Automatic Acquisition" />
@@ -54,12 +55,11 @@
       <item value="set Java Script Can Open Windows Automatically" />
       <item value="Checks whether or not tracing is currently enabled. This is useful to avoid intermediate string creation for trace sections that require formatting. It is not necessary to guard all Trace method calls as they internally already check this. However it is recommended to use this to prevent creating any temporary objects that would then be passed to those methods to reduce runtime cost when tracing isn't enabled." />
       <item value="The name of the code section to appear in the trace. This may be at most 127 Unicode code units long." />
-      <item value="section Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="429" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
