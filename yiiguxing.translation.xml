@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="penalty Log" />
+      <item value="detect All" />
       <item value="set Negative Button" />
       <item value="set Positive Button" />
       <item value="REFERRER" />
@@ -53,13 +55,11 @@
       <item value="is Reserved Keywords" />
       <item value="check Naming Specification" />
       <item value="说明" />
-      <item value="Hybrid" />
-      <item value="DOM storage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="435" />
+        <entry key="ENGLISH" value="435" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613701682776" />
+    <option name="lastTrimTime" value="1614137248756" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
