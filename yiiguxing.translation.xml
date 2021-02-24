@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="allgro" />
       <item value="penalty Log" />
       <item value="detect All" />
       <item value="set Negative Button" />
@@ -54,11 +55,10 @@
       <item value="is Track Click Switch Close" />
       <item value="is Reserved Keywords" />
       <item value="check Naming Specification" />
-      <item value="说明" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
+        <entry key="CHINESE" value="436" />
         <entry key="ENGLISH" value="435" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
