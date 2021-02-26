@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="flush Interval" />
       <item value="req Policy And Apply" />
       <item value="set Volume Control Stream" />
       <item value="get Owner Activity" />
@@ -54,12 +55,11 @@
       <item value="move Global Id" />
       <item value="last Visible" />
       <item value="get Global Id" />
-      <item value="Scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="442" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
