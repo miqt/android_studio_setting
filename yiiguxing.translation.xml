@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Starts to listen the given {@code source} LiveData, {@code onChanged} observer will be called when {@code source} value was changed." />
+      <item value="Arch Task Executor" />
+      <item value="Documented" />
       <item value="Computable Live Data" />
       <item value="m Data Lock" />
       <item value="observe Forever" />
@@ -52,14 +55,11 @@
       <item value="m First Toggle Time" />
       <item value="add On Global Layout Listener" />
       <item value="Timer Toggler" />
-      <item value="on Global Layout" />
-      <item value="Toggler" />
-      <item value="Toggler With Views" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="457" />
+        <entry key="ENGLISH" value="456" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
