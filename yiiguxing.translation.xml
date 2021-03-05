@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="get Extensions" />
+      <item value="get Lenient Configuration" />
+      <item value="get Resolved Configuration" />
       <item value="constraints" />
       <item value="Component Module Metadata Handler" />
       <item value="modules" />
@@ -52,14 +55,11 @@
       <item value="batch" />
       <item value="Nice" />
       <item value="Nice Tool" />
-      <item value="NiceTool" />
-      <item value="When a database query is executed, the results returned are paginated in pages of size (in KB) indicated by this value" />
-      <item value="required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="467" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
