@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="constraints" />
+      <item value="Component Module Metadata Handler" />
+      <item value="modules" />
+      <item value="components" />
       <item value="platform" />
       <item value="enforced Platform" />
       <item value="sample" />
@@ -51,15 +55,11 @@
       <item value="NiceTool" />
       <item value="When a database query is executed, the results returned are paginated in pages of size (in KB) indicated by this value" />
       <item value="required" />
-      <item value="get Local Visible Rect" />
-      <item value="monitor View Tree Change" />
-      <item value="Internal Insets Info" />
-      <item value="Subscription" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="465" />
+        <entry key="ENGLISH" value="464" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
