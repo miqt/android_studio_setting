@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="update subscription url" />
+      <item value="subscription" />
       <item value="get Extensions" />
       <item value="get Lenient Configuration" />
       <item value="get Resolved Configuration" />
@@ -53,13 +55,11 @@
       <item value="extend Key" />
       <item value="try Get Location Ed" />
       <item value="batch" />
-      <item value="Nice" />
-      <item value="Nice Tool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="469" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614589222138" />
+    <option name="lastTrimTime" value="1615171373024" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
