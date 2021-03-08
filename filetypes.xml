@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="DumpImplClazz" type="PLAIN_TEXT" />
+      <mapping ext="log1" type="PLAIN_TEXT" />
+      <mapping ext="log2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
