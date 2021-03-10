@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="justDebug not work in this&quot;" />
+      <item value="Exception In Initializer Error" />
       <item value="get Variant Name" />
       <item value="original" />
       <item value="poll" />
@@ -53,13 +55,11 @@
       <item value="ON ANY" />
       <item value="Lifecycle Owner" />
       <item value="NETWORK TYPE NR" />
-      <item value="config.is Auto Track Fragment Page View()" />
-      <item value="SP SEND TIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
-        <entry key="ENGLISH" value="491" />
+        <entry key="CHINESE" value="495" />
+        <entry key="ENGLISH" value="493" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
