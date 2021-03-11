@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="get Call Site Array" />
       <item value="desc" />
       <item value="visible" />
       <item value="Inherited" />
@@ -54,12 +55,11 @@
       <item value="modules" />
       <item value="components" />
       <item value="platform" />
-      <item value="enforced Platform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="509" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
