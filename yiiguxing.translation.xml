@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="weave Single Class To File" />
       <item value="Configuration for action submission." />
       <item value="A utility wrapper around a {link ForkJoinPool} that allows to wait on all the submitted tasks. &lt;p&gt;Tasks are submitted as {@link Callable} with {@link execute(java.util.concurrent.Callable)}. &lt;p&gt;After executing all tasks, it is possible to wait on them with {@link waitForTasksWithQuickFail(boolean)}, or {@link waitForAllTasks()}. &lt;p&gt;Tasks can also be individually monitored using the {@link Future&lt;&gt;} object @deprecated Use {@link com.android.ide.common.workers.WorkerExecutorFacade} instead." />
       <item value="incremental Task Inputs" />
@@ -54,12 +55,11 @@
       <item value="update subscription url" />
       <item value="subscription" />
       <item value="get Extensions" />
-      <item value="get Lenient Configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="516" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
