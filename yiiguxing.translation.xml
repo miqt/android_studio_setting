@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Configuration for action submission." />
+      <item value="A utility wrapper around a {link ForkJoinPool} that allows to wait on all the submitted tasks. &lt;p&gt;Tasks are submitted as {@link Callable} with {@link execute(java.util.concurrent.Callable)}. &lt;p&gt;After executing all tasks, it is possible to wait on them with {@link waitForTasksWithQuickFail(boolean)}, or {@link waitForAllTasks()}. &lt;p&gt;Tasks can also be individually monitored using the {@link Future&lt;&gt;} object @deprecated Use {@link com.android.ide.common.workers.WorkerExecutorFacade} instead." />
       <item value="incremental Task Inputs" />
       <item value="invalid" />
       <item value="Closing a &lt;tt&gt;ByteArrayOutputStream&lt;tt&gt; has no effect. The methods in this class can be called after the stream has been closed without generating an &lt;tt&gt;IOException&lt;tt&gt;." />
@@ -53,13 +55,11 @@
       <item value="subscription" />
       <item value="get Extensions" />
       <item value="get Lenient Configuration" />
-      <item value="get Resolved Configuration" />
-      <item value="constraints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="515" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
