@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Closing a &lt;tt&gt;ByteArrayOutputStream&lt;tt&gt; has no effect. The methods in this class can be called after the stream has been closed without generating an &lt;tt&gt;IOException&lt;tt&gt;." />
       <item value="if an IO error occurs" />
       <item value="get Call Site Array" />
       <item value="desc" />
@@ -54,12 +55,11 @@
       <item value="constraints" />
       <item value="Component Module Metadata Handler" />
       <item value="modules" />
-      <item value="components" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="514" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="511" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
