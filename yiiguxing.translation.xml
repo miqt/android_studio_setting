@@ -5,6 +5,22 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Returns the common pool instance. This pool is statically constructed; its run state is unaffected by attempts to {@link shutdown} or {@link shutdownNow}. However this pool and any ongoing processing are automatically terminated upon program {@link Systemexit}. Any program that relies on asynchronous task processing to complete before program termination should invoke {@code commonPool().}{@link awaitQuiescence awaitQuiescence}, before exit." />
+      <item value="get Security Manager" />
+      <item value="default Fork Join Worker Thread Factory" />
+      <item value="Rejected Execution Exception" />
+      <item value="use Global Shared Thread Pool" />
+      <item value="Fail" />
+      <item value="Waits for all tasks to be executed. If a tasks throws an exception, it will be thrown from this method inside a RuntimeException, preventing access to the result of the other threads. &lt;p&gt;If you want to get the results of all tasks (result andor exception), use {@link waitForAllTasks()} &lt;p&gt;To get the actual cause of the failure, examine the exception thrown. There are some nuances to it though. If the exception was thrown on the same thread on which we wait for completion, the {@link ThrowablegetCause()} will be {@code null}. If the exception was thrown on a different thread, the fork join pool mechanism will try to set the cause. Because there is no access to this information, you probably want to check for the cause first, and only if it is null, to check the exception thrown by this method." />
+      <item value="join" />
+      <item value="cancel Remaining" />
+      <item value="wait For Tasks With Quick Fail" />
+      <item value="executor" />
+      <item value="owner" />
+      <item value="wait For All Tasks" />
+      <item value="using a plain JDK" />
+      <item value="that executes runnables directly" />
+      <item value="Direct Worker Executor" />
       <item value="begin Transform" />
       <item value="after Transform" />
       <item value="weave Single Class To File" />
@@ -39,27 +55,11 @@
       <item value="elapsed Realtime" />
       <item value="fair" />
       <item value="Blocking" />
-      <item value="Linked Blocking Queue" />
-      <item value="Copies all of the mappings from the specified map to this map (optional operation). The effect of this call is equivalent to that of calling {@link put(Object,Object) put(k, v)} on this map once for each mapping from key {@code k} to value {@code v} in the specified map. The behavior of this operation is undefined if the specified map is modified while the operation is in progress." />
-      <item value="bate" />
-      <item value="A problem occurred configuring project" />
-      <item value="finalize" />
-      <item value="Evaluate" />
-      <item value="after Evaluate" />
-      <item value="remove Composited" />
-      <item value="get Build Dependencies" />
-      <item value="warn If Configuration Is Deprecated" />
-      <item value="Unsupported Operation Exception" />
-      <item value="get Version" />
-      <item value="get Reason" />
-      <item value="deep Equals" />
-      <item value="Closure" />
-      <item value="update subscription url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="539" />
+        <entry key="ENGLISH" value="535" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
