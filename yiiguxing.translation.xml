@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="SKIP FRAMES" />
       <item value="check XML On Click" />
       <item value="Returns the parallelism of this executor i.e. how many tasks can run in parallel." />
       <item value="get Parallelism" />
@@ -54,12 +55,11 @@
       <item value="Exception In Initializer Error" />
       <item value="get Variant Name" />
       <item value="original" />
-      <item value="poll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="542" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="539" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
