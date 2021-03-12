@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="classpath 'com.bitAuto.plugin:full_point:1.0.3-alpha'" />
       <item value="SKIP FRAMES" />
       <item value="check XML On Click" />
       <item value="Returns the parallelism of this executor i.e. how many tasks can run in parallel." />
@@ -54,12 +55,11 @@
       <item value="justDebug not work in this&quot;" />
       <item value="Exception In Initializer Error" />
       <item value="get Variant Name" />
-      <item value="original" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="543" />
-        <entry key="ENGLISH" value="539" />
+        <entry key="CHINESE" value="544" />
+        <entry key="ENGLISH" value="540" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
