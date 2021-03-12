@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Returns the parallelism of this executor i.e. how many tasks can run in parallel." />
+      <item value="get Parallelism" />
       <item value="Returns the common pool instance. This pool is statically constructed; its run state is unaffected by attempts to {@link shutdown} or {@link shutdownNow}. However this pool and any ongoing processing are automatically terminated upon program {@link Systemexit}. Any program that relies on asynchronous task processing to complete before program termination should invoke {@code commonPool().}{@link awaitQuiescence awaitQuiescence}, before exit." />
       <item value="get Security Manager" />
       <item value="default Fork Join Worker Thread Factory" />
@@ -53,13 +55,11 @@
       <item value="original" />
       <item value="poll" />
       <item value="elapsed Realtime" />
-      <item value="fair" />
-      <item value="Blocking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="539" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="541" />
+        <entry key="ENGLISH" value="537" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
