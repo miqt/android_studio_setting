@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="match" />
       <item value="Inherited" />
       <item value="classpath 'com.bitAuto.plugin:full_point:1.0.3-alpha'" />
       <item value="SKIP FRAMES" />
@@ -54,12 +55,11 @@
       <item value="peek" />
       <item value="justDebug not work in this&quot;" />
       <item value="Exception In Initializer Error" />
-      <item value="get Variant Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="545" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="546" />
+        <entry key="ENGLISH" value="542" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615171373024" />
+    <option name="lastTrimTime" value="1615793862849" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
