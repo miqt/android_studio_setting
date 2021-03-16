@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Commen" />
       <item value="invalid" />
       <item value="unionpay" />
       <item value="api" />
@@ -54,11 +55,10 @@
       <item value="inject Jar" />
       <item value="to Hex String" />
       <item value="Package-private to be used by j.l.System. We do the implementation here to avoid Object.hashCode doing a clinit check on j.l.System, and also to avoid leaking shadow_monitor_ outside of this class." />
-      <item value="the head of this queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
+        <entry key="CHINESE" value="552" />
         <entry key="ENGLISH" value="546" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -73,7 +73,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
