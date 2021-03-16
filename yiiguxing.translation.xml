@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="unionpay" />
       <item value="api" />
       <item value="Dex Archive Builder Exception" />
       <item value="Compilation Failed Exception" />
@@ -54,12 +55,11 @@
       <item value="to Hex String" />
       <item value="Package-private to be used by j.l.System. We do the implementation here to avoid Object.hashCode doing a clinit check on j.l.System, and also to avoid leaking shadow_monitor_ outside of this class." />
       <item value="the head of this queue" />
-      <item value="the head of this queue, or {@code null} if this queue is empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="549" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="545" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
