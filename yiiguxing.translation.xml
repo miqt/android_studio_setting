@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="MAXIMUM POOL SIZE" />
+      <item value="Async" />
+      <item value="asynch" />
+      <item value="异步" />
+      <item value="asyn" />
       <item value="Commen" />
       <item value="invalid" />
       <item value="unionpay" />
@@ -50,16 +55,12 @@
       <item value="Indicates that an annotation type is automatically inherited. If an Inherited meta-annotation is present on an annotation type declaration, and the user queries the annotation type on a class declaration, and the class declaration has no annotation for this type, then the class's superclass will automatically be queried for the annotation type. This process will be repeated until an annotation for this type is found, or the top of the class hierarchy (Object) is reached. If no superclass has an annotation for this type, then the query will indicate that the class in question has no such annotation. &lt;p&gt;Note that this meta-annotation type has no effect if the annotated type is used to annotate anything other than a class. Note also that this meta-annotation only causes annotations to be inherited from superclasses; annotations on implemented interfaces have no effect." />
       <item value="mapping" />
       <item value="Accepter" />
-      <item value="handler" />
-      <item value="Regexs" />
-      <item value="inject Jar" />
-      <item value="to Hex String" />
-      <item value="Package-private to be used by j.l.System. We do the implementation here to avoid Object.hashCode doing a clinit check on j.l.System, and also to avoid leaking shadow_monitor_ outside of this class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="546" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="549" />
+        <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="2" />
