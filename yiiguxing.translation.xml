@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Positive" />
+      <item value="Negative" />
+      <item value="set Negative Button" />
       <item value="Action Happen Time" />
       <item value="SNAP SHOT DEFAULT" />
       <item value="Broadcast Action: A new version of your application has been installed over an existing one. This is only sent to the application that was replaced. It does not contain any additional data; to receive it, just use an intent filter for this action. &lt;p class=&quot;note&quot;&gt;This is a protected intent that can only be sent by the system." />
@@ -52,14 +55,11 @@
       <item value="get Parallelism" />
       <item value="Returns the common pool instance. This pool is statically constructed; its run state is unaffected by attempts to {@link shutdown} or {@link shutdownNow}. However this pool and any ongoing processing are automatically terminated upon program {@link Systemexit}. Any program that relies on asynchronous task processing to complete before program termination should invoke {@code commonPool().}{@link awaitQuiescence awaitQuiescence}, before exit." />
       <item value="get Security Manager" />
-      <item value="default Fork Join Worker Thread Factory" />
-      <item value="Rejected Execution Exception" />
-      <item value="use Global Shared Thread Pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="585" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="588" />
+        <entry key="ENGLISH" value="580" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
