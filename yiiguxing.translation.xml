@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="requests" />
+      <item value="SERVICE INTENT EXTRA" />
+      <item value="Scoped Storage" />
+      <item value="Unused Attribute" />
       <item value="set Placeholder" />
       <item value="deferred" />
       <item value="The global {@link Picasso} instance. &lt;p&gt; This instance is automatically initialized with defaults that are suitable to most implementations. &lt;ul&gt; &lt;li&gt;LRU memory cache of 15% the available application RAM&lt;li&gt; &lt;li&gt;Disk cache of 2% storage space up to 50MB but no less than 5MB. (Note: this is only available on API 14+ &lt;em&gt;or&lt;em&gt; if you are using a standalone library that provides a disk cache on all API levels like OkHttp)&lt;li&gt; &lt;li&gt;Three download threads for disk and network access.&lt;li&gt; &lt;ul&gt; &lt;p&gt; If these settings do not meet the requirements of your application you can construct your own with full control over the configuration by using {@link Picasso.Builder} to create a {@link Picasso} instance. You can either use this directly or by setting it as the global instance with {@link setSingletonInstance}." />
@@ -51,15 +55,11 @@
       <item value="executor" />
       <item value="owner" />
       <item value="wait For All Tasks" />
-      <item value="using a plain JDK" />
-      <item value="that executes runnables directly" />
-      <item value="Direct Worker Executor" />
-      <item value="begin Transform" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="573" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="577" />
+        <entry key="ENGLISH" value="569" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
