@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Set a hint to the system about whether this fragment's UI is currently visible to the user. This hint defaults to true and is persistent across fragment instance state save and restore. &lt;p&gt;An app may set this to false to indicate that the fragment's UI is scrolled out of visibility or is otherwise not directly visible to the user. This may be used by the system to prioritize operations such as fragment lifecycle updates or loader ordering behavior.&lt;p&gt; &lt;p&gt;&lt;strong&gt;Note:&lt;strong&gt; This method may be called outside of the fragment lifecycle. and thus has no ordering guarantees with regard to fragment lifecycle method calls.&lt;p&gt; @param isVisibleToUser true if this fragment's UI is currently visible to the user (default), false if it is not. @deprecated If you are manually calling this method, use {@link FragmentTransactionsetMaxLifecycle(Fragment, Lifecycle.State)} instead. If overriding this method, behavior implemented when passing in &lt;code&gt;true&lt;code&gt; should be moved to {@link FragmentonResume()}, and behavior implemented when passing in &lt;code&gt;false&lt;code&gt; should be moved to {@link FragmentonPause()}." />
+      <item value="set User Visible Hint" />
       <item value="track Fragment Set User Visible Hint" />
       <item value="is Resumed" />
       <item value="fragment Get User Visible Hint" />
@@ -53,13 +55,11 @@
       <item value="Inherited" />
       <item value="classpath 'com.bitAuto.plugin:full_point:1.0.3-alpha'" />
       <item value="SKIP FRAMES" />
-      <item value="check XML On Click" />
-      <item value="Returns the parallelism of this executor i.e. how many tasks can run in parallel." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="591" />
-        <entry key="ENGLISH" value="583" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="586" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
