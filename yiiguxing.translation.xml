@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Cleartext HTTP traffic to tnorbi.yccdn.com not permitted" />
       <item value="fragment Is Show(object)" />
       <item value="If overriding this method, behavior implemented when passing in &lt;code&gt;true&lt;code&gt; should be moved to {@link FragmentonResume()}, and behavior implemented when passing in &lt;code&gt;false&lt;code&gt; should be moved to {@link FragmentonPause()}." />
       <item value="instead" />
@@ -54,12 +55,11 @@
       <item value="Error Dialog Manager" />
       <item value="MAXIMUM POOL SIZE" />
       <item value="Async" />
-      <item value="asynch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="608" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="609" />
+        <entry key="ENGLISH" value="601" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
