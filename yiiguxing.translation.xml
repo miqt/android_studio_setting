@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="fragment Is Show(object)" />
       <item value="If overriding this method, behavior implemented when passing in &lt;code&gt;true&lt;code&gt; should be moved to {@link FragmentonResume()}, and behavior implemented when passing in &lt;code&gt;false&lt;code&gt; should be moved to {@link FragmentonPause()}." />
       <item value="instead" />
       <item value="set Max Lifecycle" />
@@ -54,12 +55,11 @@
       <item value="MAXIMUM POOL SIZE" />
       <item value="Async" />
       <item value="asynch" />
-      <item value="异步" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="607" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="CHINESE" value="608" />
+        <entry key="ENGLISH" value="600" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
