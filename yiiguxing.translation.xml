@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="listen" />
+      <item value="Copy On Write Array Set" />
+      <item value="is Match Condition" />
+      <item value="MESSAGE HANDLE SEND EVENT SERVER" />
+      <item value="MESSAGE HANDLE EDITOR CLOSED" />
+      <item value="is Mock" />
+      <item value="sib Class Name" />
+      <item value="send Accessibility Event" />
       <item value="SIB" />
       <item value="SIB CLICK" />
       <item value="EVENT SELECTD" />
@@ -47,19 +55,11 @@
       <item value="Scoped Storage" />
       <item value="Unused Attribute" />
       <item value="set Placeholder" />
-      <item value="deferred" />
-      <item value="The global {@link Picasso} instance. &lt;p&gt; This instance is automatically initialized with defaults that are suitable to most implementations. &lt;ul&gt; &lt;li&gt;LRU memory cache of 15% the available application RAM&lt;li&gt; &lt;li&gt;Disk cache of 2% storage space up to 50MB but no less than 5MB. (Note: this is only available on API 14+ &lt;em&gt;or&lt;em&gt; if you are using a standalone library that provides a disk cache on all API levels like OkHttp)&lt;li&gt; &lt;li&gt;Three download threads for disk and network access.&lt;li&gt; &lt;ul&gt; &lt;p&gt; If these settings do not meet the requirements of your application you can construct your own with full control over the configuration by using {@link Picasso.Builder} to create a {@link Picasso} instance. You can either use this directly or by setting it as the global instance with {@link setSingletonInstance}." />
-      <item value="Listener Host" />
-      <item value="await Termination" />
-      <item value="new Cached Thread Pool" />
-      <item value="priority" />
-      <item value="subscriber" />
-      <item value="Subscriber priority to influence the order of event delivery." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="614" />
-        <entry key="ENGLISH" value="605" />
+        <entry key="CHINESE" value="623" />
+        <entry key="ENGLISH" value="614" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
