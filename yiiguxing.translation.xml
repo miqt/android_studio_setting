@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="track Send Accessibility Event" />
       <item value="hot search " />
       <item value="hotsearch " />
       <item value="HOTSEARCH " />
@@ -54,12 +55,11 @@
       <item value="If true, delivers the most recent sticky event (posted with" />
       <item value="POSTING" />
       <item value="BACKGROUND" />
-      <item value="MAIN ORDERED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="602" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="603" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616379909755" />
+    <option name="lastTrimTime" value="1616998127837" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
