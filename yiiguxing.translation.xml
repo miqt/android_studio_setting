@@ -5,11 +5,17 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="capture View Hierarchy" />
+      <item value="serialized objects" />
+      <item value="Encodes {@code data} as a JSON string. This applies quotes and any necessary character escaping." />
+      <item value="quote" />
+      <item value="check And Update Change" />
+      <item value="MESSAGE HANDLE EDITOR CLOSED" />
+      <item value="MESSAGE CONNECT TO EDITOR" />
       <item value="listen" />
       <item value="Copy On Write Array Set" />
       <item value="is Match Condition" />
       <item value="MESSAGE HANDLE SEND EVENT SERVER" />
-      <item value="MESSAGE HANDLE EDITOR CLOSED" />
       <item value="is Mock" />
       <item value="sib Class Name" />
       <item value="send Accessibility Event" />
@@ -49,17 +55,11 @@
       <item value="ACTION PACKAGE REMOVED" />
       <item value="SYSTEM HIGH PRIORITY" />
       <item value="USER PRESENT" />
-      <item value="BOOT COMPLETED" />
-      <item value="requests" />
-      <item value="SERVICE INTENT EXTRA" />
-      <item value="Scoped Storage" />
-      <item value="Unused Attribute" />
-      <item value="set Placeholder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="623" />
-        <entry key="ENGLISH" value="614" />
+        <entry key="CHINESE" value="630" />
+        <entry key="ENGLISH" value="621" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
