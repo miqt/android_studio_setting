@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="704" />
+    <option name="newTranslationDialogWidth" value="702" />
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="feat&#10;" />
+      <item value="feat&#10;&#10;" />
+      <item value="fe" />
+      <item value="class file no change" />
       <item value="This view is invisible, but it still takes up space for layout purposes. Use with {@link setVisibility} and &lt;a href=&quot;attr_android:visibility&quot;&gt;{@code android:visibility}." />
       <item value="VISIBILITY MASK" />
       <item value="visibility" />
@@ -51,15 +55,11 @@
       <item value="perform Pending Deferred Start" />
       <item value="STARTED" />
       <item value="m User Visible Hint" />
-      <item value="set User Visible Hint" />
-      <item value="Set a hint to the system about whether this fragment's UI is currently visible to the user. This hint defaults to true and is persistent across fragment instance state save and restore. &lt;p&gt;An app may set this to false to indicate that the fragment's UI is scrolled out of visibility or is otherwise not directly visible to the user. This may be used by the system to prioritize operations such as fragment lifecycle updates or loader ordering behavior.&lt;p&gt; &lt;p&gt;&lt;strong&gt;Note:&lt;strong&gt; This method may be called outside of the fragment lifecycle. and thus has no ordering guarantees with regard to fragment lifecycle method calls.&lt;p&gt; @param isVisibleToUser true if this fragment's UI is currently visible to the user (default), false if it is not. @deprecated If you are manually calling this method, use {@link FragmentTransactionsetMaxLifecycle(Fragment, Lifecycle.State)} instead. If overriding this method, behavior implemented when passing in &lt;code&gt;true&lt;code&gt; should be moved to {@link FragmentonResume()}, and behavior implemented when passing in &lt;code&gt;false&lt;code&gt; should be moved to {@link FragmentonPause()}." />
-      <item value="track Fragment Set User Visible Hint" />
-      <item value="is Resumed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="642" />
+        <entry key="ENGLISH" value="633" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
