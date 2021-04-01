@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="EXTRA KEY CONFIRM" />
+      <item value="object containing the event that triggered the creation of the Intent it is in." />
       <item value="Broadcast intent when the volume for a particular stream type changes. Includes the stream, the new volume and previous volumes. Notes: - for internal platform use only, do not make public, - never used for &quot;remote&quot; volume changes" />
       <item value="Sdk Constant Type" />
       <item value="Unsupported App Usage" />
@@ -53,13 +55,11 @@
       <item value="Cleartext HTTP traffic to tnorbi.yccdn.com not permitted" />
       <item value="fragment Is Show(object)" />
       <item value="If overriding this method, behavior implemented when passing in &lt;code&gt;true&lt;code&gt; should be moved to {@link FragmentonResume()}, and behavior implemented when passing in &lt;code&gt;false&lt;code&gt; should be moved to {@link FragmentonPause()}." />
-      <item value="instead" />
-      <item value="set Max Lifecycle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="641" />
+        <entry key="CHINESE" value="652" />
+        <entry key="ENGLISH" value="643" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
