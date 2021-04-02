@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="insert File If Necessary" />
       <item value="recordtype" />
       <item value="MESSAGE HANDLE SEND EVENT SERVER" />
       <item value="MESSAGE HANDLE EDITOR CLOSED" />
@@ -54,12 +55,11 @@
       <item value="hotsearch " />
       <item value="HOTSEARCH " />
       <item value="Concurrent Modification Exception" />
-      <item value="Cleartext HTTP traffic to tnorbi.yccdn.com not permitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="657" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="CHINESE" value="658" />
+        <entry key="ENGLISH" value="649" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
