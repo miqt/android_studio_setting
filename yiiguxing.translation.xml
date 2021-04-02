@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Multi" />
       <item value="is not preceded with whitespace." />
       <item value="category" />
       <item value="Miui Multi Window Utils" />
@@ -54,12 +55,11 @@
       <item value="SIB" />
       <item value="SIB CLICK" />
       <item value="EVENT SELECTD" />
-      <item value="track Send Accessibility Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="663" />
+        <entry key="ENGLISH" value="654" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
