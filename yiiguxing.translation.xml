@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="category" />
+      <item value="Miui Multi Window Utils" />
+      <item value="read Freeform Timestamps" />
       <item value="insert File If Necessary" />
       <item value="recordtype" />
       <item value="MESSAGE HANDLE SEND EVENT SERVER" />
@@ -52,14 +55,11 @@
       <item value="EVENT SELECTD" />
       <item value="track Send Accessibility Event" />
       <item value="hot search " />
-      <item value="hotsearch " />
-      <item value="HOTSEARCH " />
-      <item value="Concurrent Modification Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="658" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="CHINESE" value="661" />
+        <entry key="ENGLISH" value="652" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
