@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="view class unique" />
       <item value="NEVER MATCH PATH" />
       <item value="prefix Code" />
       <item value="invisible" />
@@ -54,12 +55,11 @@
       <item value="visibility" />
       <item value="Top position of this view relative to its parent." />
       <item value="INVISIBLE" />
-      <item value="is Invisible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="685" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
