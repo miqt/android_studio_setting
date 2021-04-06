@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="accessor" />
+      <item value="processable" />
+      <item value="dimensions" />
+      <item value="perform Accessibility Action Internal" />
+      <item value="Call this view's OnClickListener, if it is defined. Performs all normal actions associated with clicking: reporting accessibility event, playing a sound, etc. @return True there was an assigned OnClickListener that was called, false otherwise is returned." />
+      <item value="Delegate for injecting accessibility functionality." />
       <item value="SHORTEST PREFIX" />
       <item value="prefix Code" />
       <item value="is Unique Class Exactly" />
@@ -49,17 +55,11 @@
       <item value="EXTRA VOLUME STREAM TYPE" />
       <item value="Activity Action: Perform voice assist action. &lt;p&gt; Input: {@link EXTRA_ASSIST_PACKAGE}, {@link EXTRA_ASSIST_CONTEXT}, can provide additional optional contextual information about where the user was when they requested the voice assist. Output: nothing." />
       <item value="VOICE ASSIST" />
-      <item value="feat&#10;" />
-      <item value="feat&#10;&#10;" />
-      <item value="fe" />
-      <item value="class file no change" />
-      <item value="This view is invisible, but it still takes up space for layout purposes. Use with {@link setVisibility} and &lt;a href=&quot;attr_android:visibility&quot;&gt;{@code android:visibility}." />
-      <item value="VISIBILITY MASK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="703" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="CHINESE" value="709" />
+        <entry key="ENGLISH" value="696" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
