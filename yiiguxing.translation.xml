@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="NEVER MATCH PATH" />
+      <item value="prefix Code" />
       <item value="invisible" />
       <item value="sib Top Distance" />
       <item value="str Relate" />
@@ -53,13 +55,11 @@
       <item value="Top position of this view relative to its parent." />
       <item value="INVISIBLE" />
       <item value="is Invisible" />
-      <item value="is Assignable From" />
-      <item value="m Is Sensor Registered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="693" />
-        <entry key="ENGLISH" value="682" />
+        <entry key="CHINESE" value="695" />
+        <entry key="ENGLISH" value="684" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
