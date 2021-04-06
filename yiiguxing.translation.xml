@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="recordtype" />
       <item value="SHORTEST PREFIX" />
       <item value="match" />
       <item value="index Class Only" />
@@ -25,7 +26,6 @@
       <item value="Miui Multi Window Utils" />
       <item value="read Freeform Timestamps" />
       <item value="insert File If Necessary" />
-      <item value="recordtype" />
       <item value="MESSAGE HANDLE SEND EVENT SERVER" />
       <item value="MESSAGE HANDLE EDITOR CLOSED" />
       <item value="MESSAGE HANDLE EDITOR BINDINGS RECEIVED" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="677" />
+        <entry key="CHINESE" value="688" />
+        <entry key="ENGLISH" value="678" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
