@@ -5,10 +5,10 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="SHORTEST PREFIX" />
+      <item value="VIEW PAGER PREFIX" />
       <item value="ZERO LENGTH PREFIX" />
       <item value="prefix" />
-      <item value="VIEW PAGER PREFIX" />
-      <item value="SHORTEST PREFIX" />
       <item value="Finds the resource with the given name. A resource is some data (images, audio, text, etc) that can be accessed by class code in a way that is independent of the location of the code. &lt;p&gt; The name of a resource is a '&lt;tt&gt;&lt;tt&gt;'-separated path name that identifies the resource. &lt;p&gt; This method will first search the parent class loader for the resource; if the parent is &lt;tt&gt;null&lt;tt&gt; the path of the class loader built-in to the virtual machine is searched. That failing, this method will invoke {@link findResource(String)} to find the resource. &lt;p&gt; @apiNote When overriding this method it is recommended that an implementation ensures that any delegation is consistent with the {@link getResources(java.lang.String) getResources(String)} method." />
       <item value="Multi" />
       <item value="is not preceded with whitespace." />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="669" />
-        <entry key="ENGLISH" value="660" />
+        <entry key="CHINESE" value="672" />
+        <entry key="ENGLISH" value="663" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
