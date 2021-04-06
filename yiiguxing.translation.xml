@@ -5,17 +5,19 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="SHORTEST PREFIX" />
+      <item value="prefix Code" />
+      <item value="is Unique Class Exactly" />
+      <item value="get Row Idx" />
       <item value="sib Position" />
       <item value="view class unique" />
       <item value="NEVER MATCH PATH" />
-      <item value="prefix Code" />
       <item value="invisible" />
       <item value="sib Top Distance" />
       <item value="str Relate" />
       <item value="EVENT ACTION REFLECT" />
       <item value="EVENT ACTION REPORT" />
       <item value="recordtype" />
-      <item value="SHORTEST PREFIX" />
       <item value="match" />
       <item value="index Class Only" />
       <item value="subject" />
@@ -53,13 +55,11 @@
       <item value="class file no change" />
       <item value="This view is invisible, but it still takes up space for layout purposes. Use with {@link setVisibility} and &lt;a href=&quot;attr_android:visibility&quot;&gt;{@code android:visibility}." />
       <item value="VISIBILITY MASK" />
-      <item value="visibility" />
-      <item value="Top position of this view relative to its parent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="698" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="703" />
+        <entry key="ENGLISH" value="690" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
