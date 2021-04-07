@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="ReasonPhrase: Forbidden." />
       <item value="privacy Policy Allowed" />
       <item value="privacy Policy Not Allowed" />
       <item value="accessor" />
@@ -54,12 +55,11 @@
       <item value="Unsupported App Usage" />
       <item value="STREAM DEVICES CHANGED ACTION" />
       <item value="EXTRA PREV VOLUME STREAM VALUE" />
-      <item value="EXTRA VOLUME STREAM TYPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="711" />
-        <entry key="ENGLISH" value="698" />
+        <entry key="CHINESE" value="712" />
+        <entry key="ENGLISH" value="699" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
