@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="privacy Policy Allowed" />
+      <item value="privacy Policy Not Allowed" />
       <item value="accessor" />
       <item value="processable" />
       <item value="dimensions" />
@@ -53,13 +55,11 @@
       <item value="STREAM DEVICES CHANGED ACTION" />
       <item value="EXTRA PREV VOLUME STREAM VALUE" />
       <item value="EXTRA VOLUME STREAM TYPE" />
-      <item value="Activity Action: Perform voice assist action. &lt;p&gt; Input: {@link EXTRA_ASSIST_PACKAGE}, {@link EXTRA_ASSIST_CONTEXT}, can provide additional optional contextual information about where the user was when they requested the voice assist. Output: nothing." />
-      <item value="VOICE ASSIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="711" />
+        <entry key="ENGLISH" value="698" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
