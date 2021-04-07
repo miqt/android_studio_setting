@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Forbidden" />
       <item value="is Mock" />
       <item value="RECORD TYPE ADD" />
       <item value="ReasonPhrase: Forbidden." />
@@ -54,12 +55,11 @@
       <item value="object containing the event that triggered the creation of the Intent it is in." />
       <item value="Broadcast intent when the volume for a particular stream type changes. Includes the stream, the new volume and previous volumes. Notes: - for internal platform use only, do not make public, - never used for &quot;remote&quot; volume changes" />
       <item value="Sdk Constant Type" />
-      <item value="Unsupported App Usage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="714" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="CHINESE" value="715" />
+        <entry key="ENGLISH" value="702" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
