@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="INVISIBLE" />
       <item value="100" />
       <item value="is Assignable From" />
       <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}. &lt;p&gt; Specifically, this method tests whether the type represented by the specified {@code Class} parameter can be converted to the type represented by this {@code Class} object via an identity conversion or via a widening reference conversion. See &lt;em&gt;The Java Language Specification&lt;em&gt;, sections 5.1.1 and 5.1.4 , for details." />
@@ -54,12 +55,11 @@
       <item value="Multi" />
       <item value="is not preceded with whitespace." />
       <item value="category" />
-      <item value="Miui Multi Window Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="726" />
-        <entry key="ENGLISH" value="713" />
+        <entry key="CHINESE" value="727" />
+        <entry key="ENGLISH" value="714" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
