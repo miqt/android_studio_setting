@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Unexpected error while computing stack sizes:" />
       <item value="KEY LOG UTILS" />
       <item value="KEY DELEGATE" />
       <item value="Json Adapter" />
@@ -54,12 +55,11 @@
       <item value="match" />
       <item value="index Class Only" />
       <item value="subject" />
-      <item value="ignore First Element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE" value="739" />
+        <entry key="ENGLISH" value="726" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
