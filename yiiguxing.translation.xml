@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="deserialize" />
+      <item value="serialize" />
       <item value="focusable" />
       <item value="show As Drop Down" />
       <item value="are Items The Same" />
@@ -53,13 +55,11 @@
       <item value="props Binding List" />
       <item value="change To Main Handler" />
       <item value="VIEW PAGER PREFIX" />
-      <item value="ZERO LENGTH PREFIX" />
-      <item value="prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="731" />
-        <entry key="ENGLISH" value="718" />
+        <entry key="CHINESE" value="733" />
+        <entry key="ENGLISH" value="720" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
