@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="EVENT ACTION REPORT" />
+      <item value="EVENT ACTION REFLECT" />
       <item value="EXTRA CERTIFICATE" />
       <item value="Unexpected error while computing stack sizes:" />
       <item value="KEY LOG UTILS" />
@@ -50,16 +52,14 @@
       <item value="invisible" />
       <item value="sib Top Distance" />
       <item value="str Relate" />
-      <item value="EVENT ACTION REFLECT" />
-      <item value="EVENT ACTION REPORT" />
       <item value="recordtype" />
       <item value="match" />
       <item value="index Class Only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="CHINESE" value="742" />
+        <entry key="ENGLISH" value="729" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
