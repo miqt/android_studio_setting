@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Key Chain Alias Callback" />
       <item value="EVENT ACTION REPORT" />
       <item value="EVENT ACTION REFLECT" />
       <item value="EXTRA CERTIFICATE" />
@@ -54,12 +55,11 @@
       <item value="str Relate" />
       <item value="recordtype" />
       <item value="match" />
-      <item value="index Class Only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="742" />
-        <entry key="ENGLISH" value="729" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="730" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618297886832" />
+    <option name="lastTrimTime" value="1619076549827" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
