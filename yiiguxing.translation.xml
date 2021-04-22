@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="The host name of the server requesting the certificate, or null if unavailable." />
+      <item value="or null if unavailable." />
       <item value="Weaker Access" />
       <item value="LIBRARY" />
       <item value="Key Chain Alias Callback" />
@@ -53,13 +55,11 @@
       <item value="view class unique" />
       <item value="NEVER MATCH PATH" />
       <item value="invisible" />
-      <item value="sib Top Distance" />
-      <item value="str Relate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="745" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="CHINESE" value="747" />
+        <entry key="ENGLISH" value="734" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
