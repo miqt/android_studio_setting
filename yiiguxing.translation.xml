@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="PFLAG IS ROOT NAMESPACE" />
+      <item value="m Private Flags" />
       <item value="is In Ignore List" />
       <item value="FEATURE CONTENT TRANSITIONS" />
       <item value="Window couldn't find content container view" />
@@ -53,13 +55,11 @@
       <item value="privacy Policy Not Allowed" />
       <item value="accessor" />
       <item value="processable" />
-      <item value="dimensions" />
-      <item value="perform Accessibility Action Internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="749" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
