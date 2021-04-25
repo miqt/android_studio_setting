@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="is In Ignore List" />
       <item value="FEATURE CONTENT TRANSITIONS" />
       <item value="Window couldn't find content container view" />
       <item value="Flag for requesting that window content changes should be animated using a TransitionManager. &lt;p&gt;The TransitionManager is set using {@link setTransitionManager(android.transition.TransitionManager)}. If none is set, a default TransitionManager will be used.&lt;p&gt;" />
@@ -54,12 +55,11 @@
       <item value="processable" />
       <item value="dimensions" />
       <item value="perform Accessibility Action Internal" />
-      <item value="Call this view's OnClickListener, if it is defined. Performs all normal actions associated with clicking: reporting accessibility event, playing a sound, etc. @return True there was an assigned OnClickListener that was called, false otherwise is returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="757" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="745" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
