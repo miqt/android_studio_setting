@@ -5,8 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
-      <item value="Flag for requesting that window content changes should be animated using a TransitionManager. &lt;p&gt;The TransitionManager is set using {@link setTransitionManager(android.transition.TransitionManager)}. If none is set, a default TransitionManager will be used.&lt;p&gt;" />
       <item value="FEATURE CONTENT TRANSITIONS" />
+      <item value="Window couldn't find content container view" />
+      <item value="Flag for requesting that window content changes should be animated using a TransitionManager. &lt;p&gt;The TransitionManager is set using {@link setTransitionManager(android.transition.TransitionManager)}. If none is set, a default TransitionManager will be used.&lt;p&gt;" />
       <item value="true if we have installed a window sub-decor layout." />
       <item value="Check for state of {@link setFitsSystemWindows(boolean)}. If this method returns {@code true}, the default implementation of {@link fitSystemWindows(Rect)} will be executed." />
       <item value="get Fits System Windows" />
@@ -54,12 +55,11 @@
       <item value="dimensions" />
       <item value="perform Accessibility Action Internal" />
       <item value="Call this view's OnClickListener, if it is defined. Performs all normal actions associated with clicking: reporting accessibility event, playing a sound, etc. @return True there was an assigned OnClickListener that was called, false otherwise is returned." />
-      <item value="Delegate for injecting accessibility functionality." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="755" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="757" />
+        <entry key="ENGLISH" value="744" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
