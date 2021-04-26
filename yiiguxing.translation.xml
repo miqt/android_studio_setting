@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Initializing the window decor can change window feature flags." />
+      <item value="Initializing the window decor can change window feature flags. Make sure that we have the correct set before performing the test below." />
       <item value="Fix Gradle wrapper and re-import project Open Gradle wrapper properties Gradle Settings." />
       <item value="Minimum supported Gradle version is 5.6.4. Current version is 4.9." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
@@ -53,13 +55,11 @@
       <item value="Forbidden" />
       <item value="is Mock" />
       <item value="RECORD TYPE ADD" />
-      <item value="ReasonPhrase: Forbidden." />
-      <item value="privacy Policy Allowed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="766" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="768" />
+        <entry key="ENGLISH" value="755" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
