@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="PFLAG IS ROOT NAMESPACE" />
       <item value="m Private Flags" />
       <item value="is In Ignore List" />
@@ -54,12 +55,11 @@
       <item value="privacy Policy Allowed" />
       <item value="privacy Policy Not Allowed" />
       <item value="accessor" />
-      <item value="processable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="762" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="751" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
