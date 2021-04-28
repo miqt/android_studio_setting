@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Decor View" />
+      <item value="Decor" />
       <item value="Can't create handler inside thread that has not called Looper.prepare()" />
       <item value="SP INIT ARGEE" />
       <item value="START MESSAGE SHOW" />
@@ -53,13 +55,11 @@
       <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}. &lt;p&gt; Specifically, this method tests whether the type represented by the specified {@code Class} parameter can be converted to the type represented by this {@code Class} object via an identity conversion or via a widening reference conversion. See &lt;em&gt;The Java Language Specification&lt;em&gt;, sections 5.1.1 and 5.1.4 , for details." />
       <item value="Compilation failed to complete" />
       <item value="Compilation" />
-      <item value="Compilation Failed Exception" />
-      <item value="server policy req fail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="CHINESE" value="780" />
+        <entry key="ENGLISH" value="767" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
