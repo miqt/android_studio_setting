@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="SP INIT ARGEE" />
+      <item value="START MESSAGE SHOW" />
+      <item value="arouter" />
       <item value="get Canonical Name" />
       <item value="Initializing the window decor can change window feature flags." />
       <item value="Initializing the window decor can change window feature flags. Make sure that we have the correct set before performing the test below." />
@@ -52,14 +55,11 @@
       <item value="Compilation Failed Exception" />
       <item value="server policy req fail" />
       <item value="req" />
-      <item value="MESSAGE HANDLE SEND EVENT SERVER" />
-      <item value="Forbidden" />
-      <item value="is Mock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="769" />
-        <entry key="ENGLISH" value="756" />
+        <entry key="CHINESE" value="772" />
+        <entry key="ENGLISH" value="759" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
