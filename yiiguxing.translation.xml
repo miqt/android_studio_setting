@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="find Element.index" />
+      <item value="is View Class Empty" />
       <item value="add Condition" />
       <item value="row" />
       <item value="is Extends From Unique Class" />
@@ -53,13 +55,11 @@
       <item value="KEY DELEGATE" />
       <item value="Json Adapter" />
       <item value="Since" />
-      <item value="Until" />
-      <item value="deserialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="790" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="792" />
+        <entry key="ENGLISH" value="778" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620445403563" />
+    <option name="lastTrimTime" value="1621309633357" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
