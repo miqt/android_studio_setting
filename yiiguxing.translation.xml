@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="is Op Mode" />
       <item value="update events in editing." />
       <item value="Smartcare" />
       <item value="is not apk supported in Smartcare" />
@@ -54,12 +55,11 @@
       <item value="EVENT ACTION REFLECT" />
       <item value="EXTRA CERTIFICATE" />
       <item value="Unexpected error while computing stack sizes:" />
-      <item value="KEY LOG UTILS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="795" />
-        <entry key="ENGLISH" value="781" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="782" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
