@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="on Accuracy Changed" />
+      <item value="MESSAGE CONNECT TO EDITOR" />
+      <item value="on Gesture Detected" />
+      <item value="TYPE ACCELEROMETER" />
       <item value="VISIBLE" />
       <item value="true if r is non-empty (i.e. part of the view is visible at the root level." />
       <item value="is Op Mode" />
@@ -51,15 +55,11 @@
       <item value="The host name of the server requesting the certificate, or null if unavailable." />
       <item value="or null if unavailable." />
       <item value="Weaker Access" />
-      <item value="LIBRARY" />
-      <item value="Key Chain Alias Callback" />
-      <item value="EVENT ACTION REPORT" />
-      <item value="EVENT ACTION REFLECT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="798" />
-        <entry key="ENGLISH" value="784" />
+        <entry key="CHINESE" value="804" />
+        <entry key="ENGLISH" value="790" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
