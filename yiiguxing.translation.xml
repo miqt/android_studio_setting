@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Gesture detected" />
       <item value="on Accuracy Changed" />
       <item value="MESSAGE CONNECT TO EDITOR" />
       <item value="on Gesture Detected" />
@@ -54,12 +55,11 @@
       <item value="Exported Property" />
       <item value="The host name of the server requesting the certificate, or null if unavailable." />
       <item value="or null if unavailable." />
-      <item value="Weaker Access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="804" />
-        <entry key="ENGLISH" value="790" />
+        <entry key="CHINESE" value="805" />
+        <entry key="ENGLISH" value="791" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
