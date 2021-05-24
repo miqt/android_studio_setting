@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="Scaling factor to convert a density in DPI units to the density scale." />
+      <item value="SCALE" />
+      <item value="DENSITY DEFAULT SCALE" />
+      <item value="DENSITY DEFAULT" />
+      <item value="erase Color" />
       <item value="Concurrent Modification Exception" />
       <item value="view class unique" />
       <item value="AUTO-GENERATED FILE. DO NOT MODIFY." />
@@ -50,16 +55,11 @@
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="PFLAG IS ROOT NAMESPACE" />
       <item value="m Private Flags" />
-      <item value="is In Ignore List" />
-      <item value="FEATURE CONTENT TRANSITIONS" />
-      <item value="Window couldn't find content container view" />
-      <item value="Flag for requesting that window content changes should be animated using a TransitionManager. &lt;p&gt;The TransitionManager is set using {@link setTransitionManager(android.transition.TransitionManager)}. If none is set, a default TransitionManager will be used.&lt;p&gt;" />
-      <item value="true if we have installed a window sub-decor layout." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="800" />
+        <entry key="CHINESE" value="819" />
+        <entry key="ENGLISH" value="805" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621309633357" />
+    <option name="lastTrimTime" value="1621842873849" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
