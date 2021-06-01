@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="LEGACY AUTO" />
+      <item value="ARGEE," />
+      <item value="SP INIT ARGEE" />
       <item value="ZERO LENGTH PREFIX" />
       <item value="ignore First Element Index" />
       <item value="index Class Only" />
@@ -52,14 +55,11 @@
       <item value="find Element.index" />
       <item value="is View Class Empty" />
       <item value="add Condition" />
-      <item value="row" />
-      <item value="records" />
-      <item value="labore voluptate cupidatat ea" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="837" />
-        <entry key="ENGLISH" value="822" />
+        <entry key="CHINESE" value="840" />
+        <entry key="ENGLISH" value="824" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
