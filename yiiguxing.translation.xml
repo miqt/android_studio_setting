@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="844" />
     <histories>
+      <item value="ignore First Element Index" />
+      <item value="index Class Only" />
       <item value="is Mock" />
       <item value="inaccessible" />
       <item value="'com.google.protobuf.IntArrayList' \" />
@@ -53,13 +55,11 @@
       <item value="records" />
       <item value="labore voluptate cupidatat ea" />
       <item value="consequat mollit aute minim ad" />
-      <item value="ACCESS COARSE LOCATION" />
-      <item value="ACCESS FINE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="834" />
-        <entry key="ENGLISH" value="819" />
+        <entry key="CHINESE" value="836" />
+        <entry key="ENGLISH" value="821" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
