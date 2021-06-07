@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="457" />
-    <option name="newTranslationDialogWidth" value="696" />
+    <option name="newTranslationDialogHeight" value="444" />
+    <option name="newTranslationDialogWidth" value="694" />
     <option name="newTranslationDialogX" value="1105" />
-    <option name="newTranslationDialogY" value="844" />
+    <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="beyond" />
       <item value="The method 'void android.support.v4.app.Fragment.onAttach(android.app.Activity)' was expected to be of type static but instead was found to be of type virtual (declaration of 'com.yiche.price.car.widget.MaskPhoneEditText' appears in base.apk:classes3.dex)" />
       <item value="do Daemon" />
       <item value="WEAK BINDER" />
@@ -55,7 +56,6 @@
       <item value="VISIBLE" />
       <item value="true if r is non-empty (i.e. part of the view is visible at the root level." />
       <item value="is Op Mode" />
-      <item value="update events in editing." />
     </histories>
     <option name="languageScores">
       <map>
