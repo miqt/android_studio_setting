@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="get Super Property" />
       <item value="beyond" />
       <item value="The method 'void android.support.v4.app.Fragment.onAttach(android.app.Activity)' was expected to be of type static but instead was found to be of type virtual (declaration of 'com.yiche.price.car.widget.MaskPhoneEditText' appears in base.apk:classes3.dex)" />
       <item value="do Daemon" />
@@ -55,12 +56,11 @@
       <item value="TYPE ACCELEROMETER" />
       <item value="VISIBLE" />
       <item value="true if r is non-empty (i.e. part of the view is visible at the root level." />
-      <item value="is Op Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
-        <entry key="ENGLISH" value="829" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="830" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="4" />
