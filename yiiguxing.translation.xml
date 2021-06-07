@@ -2,13 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="694" />
+    <option name="newTranslationDialogWidth" value="692" />
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="The method 'void android.support.v4.app.Fragment.onAttach(android.app.Activity)' was expected to be of type static but instead was found to be of type virtual (declaration of 'com.yiche.price.car.widget.MaskPhoneEditText' appears in base.apk:classes3.dex)" />
       <item value="get Super Property" />
       <item value="beyond" />
-      <item value="The method 'void android.support.v4.app.Fragment.onAttach(android.app.Activity)' was expected to be of type static but instead was found to be of type virtual (declaration of 'com.yiche.price.car.widget.MaskPhoneEditText' appears in base.apk:classes3.dex)" />
       <item value="do Daemon" />
       <item value="WEAK BINDER" />
       <item value="Called From Wrong Thread Exception" />
