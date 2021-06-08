@@ -6,6 +6,13 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="out set parameters" />
+      <item value="Aggregate Listener" />
+      <item value="Operation not started" />
+      <item value="on Package Restarted" />
+      <item value="update me.keepalive.demo to null" />
+      <item value="Killing 14433:me.keepalive.demo:remoteu0a617 (adj 100): stop me.keepalive.demo due to SwipeUpClean" />
+      <item value="remove no clear notification" />
       <item value="PACKAGE FULLY REMOVED" />
       <item value="Package no longer installed: me.keepalive.demo" />
       <item value="Invalidating cached PackageState for me.keepalive.demo" />
@@ -49,13 +56,6 @@
       <item value="Sets the visual z position of this view, in pixels. This is equivalent to setting the {@link setTranslationZ(float) translationZ} property to be the difference between the z value passed in and the current {@link getElevation() elevation} property." />
       <item value="Create a snapshot of the view into a bitmap. We should probably make some form of this public, but should think about the API." />
       <item value="m Application Scale" />
-      <item value="Hint to the compressor, 0-100. 0 meaning compress for small size, 100 meaning compress for max quality. Some formats, like PNG which is lossless, will ignore the quality setting" />
-      <item value="raw Density" />
-      <item value="true if the source should be filtered. Only applies if the matrix contains more than just translation." />
-      <item value="Scaling factor to convert a density in DPI units to the density scale." />
-      <item value="SCALE" />
-      <item value="DENSITY DEFAULT SCALE" />
-      <item value="DENSITY DEFAULT" />
     </histories>
     <option name="languageScores">
       <map>
