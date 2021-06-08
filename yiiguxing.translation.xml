@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="Invocation Target Exception" />
+      <item value="bootstrap" />
       <item value="Fake" />
       <item value="The method 'void android.support.v4.app.Fragment.onAttach(android.app.Activity)' was expected to be of type static but instead was found to be of type virtual (declaration of 'com.yiche.price.car.widget.MaskPhoneEditText' appears in base.apk:classes3.dex)" />
       <item value="get Super Property" />
@@ -54,8 +56,6 @@
       <item value="on Accuracy Changed" />
       <item value="MESSAGE CONNECT TO EDITOR" />
       <item value="on Gesture Detected" />
-      <item value="TYPE ACCELEROMETER" />
-      <item value="VISIBLE" />
     </histories>
     <option name="languageScores">
       <map>
