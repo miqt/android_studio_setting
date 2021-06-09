@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="invalid" />
+      <item value="BG INTERVAL TIME" />
       <item value="Mirror Reflection" />
       <item value="Because if you don't wait for you, grab me and wake me up when you're going to sleep" />
       <item value="因为不等你你也是快睡的时候把我抓过去吵醒我" />
@@ -54,8 +56,6 @@
       <item value="hit" />
       <item value="is Extends From Unique Class" />
       <item value="The depth location of this view relative to its {@link getElevation() elevation}." />
-      <item value="Sets the depth location of this view relative to its {@link getElevation() elevation}." />
-      <item value="get Elevation" />
     </histories>
     <option name="languageScores">
       <map>
