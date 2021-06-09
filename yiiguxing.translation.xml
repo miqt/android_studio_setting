@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="684" />
+    <option name="newTranslationDialogWidth" value="682" />
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="Because if you don't wait for you, grab me and wake me up when you're going to sleep" />
+      <item value="因为不等你你也是快睡的时候把我抓过去吵醒我" />
       <item value="out set parameters" />
       <item value="Aggregate Listener" />
       <item value="Operation not started" />
@@ -54,8 +56,6 @@
       <item value="Sets the depth location of this view relative to its {@link getElevation() elevation}." />
       <item value="get Elevation" />
       <item value="Sets the visual z position of this view, in pixels. This is equivalent to setting the {@link setTranslationZ(float) translationZ} property to be the difference between the z value passed in and the current {@link getElevation() elevation} property." />
-      <item value="Create a snapshot of the view into a bitmap. We should probably make some form of this public, but should think about the API." />
-      <item value="m Application Scale" />
     </histories>
     <option name="languageScores">
       <map>
