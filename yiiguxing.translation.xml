@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="fanqiewifi" />
+      <item value="get Canonical Name" />
+      <item value="daemon Assistant Config" />
+      <item value="persistent Config" />
+      <item value="CLICK NOTIFICATION" />
       <item value="set Java Script Can Open Windows Automatically" />
       <item value="should Override Url Loading" />
       <item value="invalid" />
@@ -51,11 +56,6 @@
       <item value="inaccessible" />
       <item value="'com.google.protobuf.IntArrayList' \" />
       <item value="\'com.google.protobuf.IntArrayList' \" />
-      <item value="然后报了这个crash：java.lang.IllegalAccessError,Method 'void java.lang.System.arraycopy(int[], int, int[], int, int)' is inaccessible to class 'com.google.protobuf.IntArrayList' (declaration of 'com.google.protobuf.IntArrayList' \" />
-      <item value="然后报了这个crash：java.lang.IllegalAccessError,Method 'void java.lang.System.arraycopy(int[], int, int[], int, int)' is inaccessible to class 'com.google.protobuf.IntArrayList' (declaration of 'com.google.protobuf.IntArrayList' appears in /data/app/~~40bOt5ZuJpkQuTE2Gp_poQ==/com.android.dialer-jUB5-ZZ_t5Yw7W_zVb20qA==/base.apk!classes2.dex),IntArrayList.java,175]" />
-      <item value="bind view no find" />
-      <item value="nohit" />
-      <item value="hit" />
     </histories>
     <option name="languageScores">
       <map>
