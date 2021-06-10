@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="is Running Task Exist" />
       <item value="daemon Assistant Config" />
       <item value="persistent Config" />
       <item value="on Persistent Create" />
@@ -55,7 +56,6 @@
       <item value="ZERO LENGTH PREFIX" />
       <item value="ignore First Element Index" />
       <item value="index Class Only" />
-      <item value="is Mock" />
     </histories>
     <option name="languageScores">
       <map>
