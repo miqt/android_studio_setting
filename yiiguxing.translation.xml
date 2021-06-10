@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="exit Power Saving Mode" />
       <item value="ignore Battery Optimization" />
       <item value="POWER SERVICE" />
       <item value="is Ignoring" />
@@ -55,7 +56,6 @@
       <item value="Concurrent Modification Exception" />
       <item value="LEGACY AUTO" />
       <item value="ARGEE," />
-      <item value="SP INIT ARGEE" />
     </histories>
     <option name="languageScores">
       <map>
