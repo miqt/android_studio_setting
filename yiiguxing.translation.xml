@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="set Java Script Can Open Windows Automatically" />
+      <item value="should Override Url Loading" />
       <item value="invalid" />
       <item value="BG INTERVAL TIME" />
       <item value="Mirror Reflection" />
@@ -54,8 +56,6 @@
       <item value="bind view no find" />
       <item value="nohit" />
       <item value="hit" />
-      <item value="is Extends From Unique Class" />
-      <item value="The depth location of this view relative to its {@link getElevation() elevation}." />
     </histories>
     <option name="languageScores">
       <map>
