@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="Leoric" />
       <item value="fanqiewifi" />
       <item value="get Canonical Name" />
       <item value="daemon Assistant Config" />
@@ -55,7 +56,6 @@
       <item value="is Mock" />
       <item value="inaccessible" />
       <item value="'com.google.protobuf.IntArrayList' \" />
-      <item value="\'com.google.protobuf.IntArrayList' \" />
     </histories>
     <option name="languageScores">
       <map>
