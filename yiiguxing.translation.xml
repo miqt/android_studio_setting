@@ -6,11 +6,13 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="daemon Assistant Config" />
+      <item value="persistent Config" />
+      <item value="on Persistent Create" />
+      <item value="INDICATOR PERSISTENT FILENAME" />
       <item value="Leoric" />
       <item value="fanqiewifi" />
       <item value="get Canonical Name" />
-      <item value="daemon Assistant Config" />
-      <item value="persistent Config" />
       <item value="CLICK NOTIFICATION" />
       <item value="set Java Script Can Open Windows Automatically" />
       <item value="should Override Url Loading" />
@@ -54,8 +56,6 @@
       <item value="ignore First Element Index" />
       <item value="index Class Only" />
       <item value="is Mock" />
-      <item value="inaccessible" />
-      <item value="'com.google.protobuf.IntArrayList' \" />
     </histories>
     <option name="languageScores">
       <map>
