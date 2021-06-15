@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="invoke" />
+      <item value="into" />
       <item value="argument" />
       <item value="Missing" />
       <item value="INSTALL GRANT RUNTIME PERMISSIONS" />
@@ -54,8 +56,6 @@
       <item value="beyond" />
       <item value="do Daemon" />
       <item value="WEAK BINDER" />
-      <item value="Called From Wrong Thread Exception" />
-      <item value="assign Parent" />
     </histories>
     <option name="languageScores">
       <map>
