@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="Invalid Gradle JDK configuration found" />
       <item value="invoke" />
       <item value="into" />
       <item value="argument" />
@@ -55,7 +56,6 @@
       <item value="get Super Property" />
       <item value="beyond" />
       <item value="do Daemon" />
-      <item value="WEAK BINDER" />
     </histories>
     <option name="languageScores">
       <map>
