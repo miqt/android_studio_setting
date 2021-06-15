@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="Unable to resolve dependency" />
+      <item value="Unable to resolve dependency for ':libuvccamera@releaseUnitTestcompileClasspath': Could not resolve com.serenegiant:common:7.15.0." />
       <item value="Invalid Gradle JDK configuration found" />
       <item value="invoke" />
       <item value="into" />
@@ -54,8 +56,6 @@
       <item value="Fake" />
       <item value="The method 'void android.support.v4.app.Fragment.onAttach(android.app.Activity)' was expected to be of type static but instead was found to be of type virtual (declaration of 'com.yiche.price.car.widget.MaskPhoneEditText' appears in base.apk:classes3.dex)" />
       <item value="get Super Property" />
-      <item value="beyond" />
-      <item value="do Daemon" />
     </histories>
     <option name="languageScores">
       <map>
