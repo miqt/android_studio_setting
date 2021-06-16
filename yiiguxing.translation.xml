@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="682" />
+    <option name="newTranslationDialogWidth" value="680" />
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="翻译" />
       <item value="m Invoke Visualized Enabled" />
       <item value="enable Visualized Auto Track" />
       <item value="Should be called whenever a new Activity appears in the application." />
@@ -55,7 +56,6 @@
       <item value="remove no clear notification" />
       <item value="PACKAGE FULLY REMOVED" />
       <item value="Package no longer installed: me.keepalive.demo" />
-      <item value="Invalidating cached PackageState for me.keepalive.demo" />
     </histories>
     <option name="languageScores">
       <map>
