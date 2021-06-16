@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="m Invoke Visualized Enabled" />
+      <item value="enable Visualized Auto Track" />
       <item value="Should be called whenever a new Activity appears in the application." />
       <item value="Crawler" />
       <item value="MESSAGE SEND STATE FOR EDITING" />
@@ -54,8 +56,6 @@
       <item value="PACKAGE FULLY REMOVED" />
       <item value="Package no longer installed: me.keepalive.demo" />
       <item value="Invalidating cached PackageState for me.keepalive.demo" />
-      <item value="me.keepalive.demo, has been opened, remove its new installed indicator" />
-      <item value=": [HSM] stayAwake true uid: 10110, pid: 26035" />
     </histories>
     <option name="languageScores">
       <map>
