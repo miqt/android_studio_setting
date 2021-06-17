@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="680" />
+    <option name="newTranslationDialogWidth" value="678" />
     <option name="newTranslationDialogX" value="1105" />
-    <option name="newTranslationDialogY" value="726" />
+    <option name="newTranslationDialogY" value="348" />
     <histories>
+      <item value="play shutter sound" />
+      <item value="handle Capture Still" />
+      <item value="start Recording" />
+      <item value="声音" />
       <item value="invalid number for field exclude" />
       <item value="USE SURFACE ENCODER" />
       <item value="BANDWIDTH FACTORS" />
@@ -52,10 +56,6 @@
       <item value="should Override Url Loading" />
       <item value="invalid" />
       <item value="BG INTERVAL TIME" />
-      <item value="Mirror Reflection" />
-      <item value="Because if you don't wait for you, grab me and wake me up when you're going to sleep" />
-      <item value="因为不等你你也是快睡的时候把我抓过去吵醒我" />
-      <item value="out set parameters" />
     </histories>
     <option name="languageScores">
       <map>
