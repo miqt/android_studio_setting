@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="DEFAULT BANDWIDTH" />
+      <item value="frame Interval Index" />
+      <item value="frame Interval Type" />
+      <item value="aspect Ratio" />
       <item value="翻译" />
       <item value="m Invoke Visualized Enabled" />
       <item value="enable Visualized Auto Track" />
@@ -52,10 +56,6 @@
       <item value="Operation not started" />
       <item value="on Package Restarted" />
       <item value="update me.keepalive.demo to null" />
-      <item value="Killing 14433:me.keepalive.demo:remoteu0a617 (adj 100): stop me.keepalive.demo due to SwipeUpClean" />
-      <item value="remove no clear notification" />
-      <item value="PACKAGE FULLY REMOVED" />
-      <item value="Package no longer installed: me.keepalive.demo" />
     </histories>
     <option name="languageScores">
       <map>
