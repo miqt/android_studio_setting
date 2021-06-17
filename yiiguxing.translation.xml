@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1105" />
     <option name="newTranslationDialogY" value="726" />
     <histories>
+      <item value="BANDWIDTH FACTORS" />
+      <item value="m Sound Pool" />
       <item value="DEFAULT BANDWIDTH" />
       <item value="frame Interval Index" />
       <item value="frame Interval Type" />
@@ -54,8 +56,6 @@
       <item value="out set parameters" />
       <item value="Aggregate Listener" />
       <item value="Operation not started" />
-      <item value="on Package Restarted" />
-      <item value="update me.keepalive.demo to null" />
     </histories>
     <option name="languageScores">
       <map>
