@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="678" />
-    <option name="newTranslationDialogX" value="1105" />
-    <option name="newTranslationDialogY" value="348" />
+    <option name="newTranslationDialogWidth" value="674" />
+    <option name="newTranslationDialogX" value="1025" />
+    <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="Authentication failed for " />
+      <item value="HTTP Basic" />
+      <item value="remote: HTTP Basic" />
+      <item value="remote: HTTP Basic: Access denied" />
       <item value="play shutter sound" />
       <item value="handle Capture Still" />
       <item value="start Recording" />
@@ -52,10 +56,6 @@
       <item value="fanqiewifi" />
       <item value="get Canonical Name" />
       <item value="CLICK NOTIFICATION" />
-      <item value="set Java Script Can Open Windows Automatically" />
-      <item value="should Override Url Loading" />
-      <item value="invalid" />
-      <item value="BG INTERVAL TIME" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623727959725" />
+    <option name="lastTrimTime" value="1624431099001" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
