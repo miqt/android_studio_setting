@@ -6,9 +6,12 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="Account Auth" />
+      <item value="Account" />
+      <item value="abs" />
+      <item value="on Perform Sync" />
       <item value="update Credentials" />
       <item value="edit Properties" />
-      <item value="on Perform Sync" />
       <item value="set Ignoring Battery Optimizations" />
       <item value="Authentication failed for " />
       <item value="HTTP Basic" />
@@ -53,9 +56,6 @@
       <item value="is Ignoring" />
       <item value="is Running Task Exist" />
       <item value="daemon Assistant Config" />
-      <item value="persistent Config" />
-      <item value="on Persistent Create" />
-      <item value="INDICATOR PERSISTENT FILENAME" />
     </histories>
     <option name="languageScores">
       <map>
