@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="Persistent lock myself failed and try again as %d times" />
       <item value="Account Auth" />
       <item value="Account" />
       <item value="abs" />
@@ -55,7 +56,6 @@
       <item value="POWER SERVICE" />
       <item value="is Ignoring" />
       <item value="is Running Task Exist" />
-      <item value="daemon Assistant Config" />
     </histories>
     <option name="languageScores">
       <map>
