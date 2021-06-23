@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="set Ignoring Battery Optimizations" />
       <item value="Authentication failed for " />
       <item value="HTTP Basic" />
       <item value="remote: HTTP Basic" />
@@ -55,7 +56,6 @@
       <item value="Leoric" />
       <item value="fanqiewifi" />
       <item value="get Canonical Name" />
-      <item value="CLICK NOTIFICATION" />
     </histories>
     <option name="languageScores">
       <map>
