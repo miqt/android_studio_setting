@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="Compilation Failed Exception" />
+      <item value="Compilation failed to complete, position:" />
       <item value="CIRCULAR REFERENCE" />
       <item value="Invalid empty classfile" />
       <item value="Auto Try Catch" />
@@ -54,8 +56,6 @@
       <item value="argument" />
       <item value="Missing" />
       <item value="INSTALL GRANT RUNTIME PERMISSIONS" />
-      <item value="exit Power Saving Mode" />
-      <item value="ignore Battery Optimization" />
     </histories>
     <option name="languageScores">
       <map>
