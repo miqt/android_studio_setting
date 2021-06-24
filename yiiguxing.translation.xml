@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="visit Var Insn" />
       <item value="Compilation Failed Exception" />
       <item value="Compilation failed to complete, position:" />
       <item value="CIRCULAR REFERENCE" />
@@ -55,7 +56,6 @@
       <item value="into" />
       <item value="argument" />
       <item value="Missing" />
-      <item value="INSTALL GRANT RUNTIME PERMISSIONS" />
     </histories>
     <option name="languageScores">
       <map>
