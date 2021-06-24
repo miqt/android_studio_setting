@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="resident" />
+      <item value="PERSISTENT CONFIG" />
       <item value="visit Var Insn" />
       <item value="Compilation Failed Exception" />
       <item value="Compilation failed to complete, position:" />
@@ -54,8 +56,6 @@
       <item value="Invalid Gradle JDK configuration found" />
       <item value="invoke" />
       <item value="into" />
-      <item value="argument" />
-      <item value="Missing" />
     </histories>
     <option name="languageScores">
       <map>
