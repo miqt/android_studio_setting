@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="CIRCULAR REFERENCE" />
       <item value="Invalid empty classfile" />
       <item value="Auto Try Catch" />
       <item value="Persistent lock myself failed and try again as %d times" />
@@ -55,7 +56,6 @@
       <item value="INSTALL GRANT RUNTIME PERMISSIONS" />
       <item value="exit Power Saving Mode" />
       <item value="ignore Battery Optimization" />
-      <item value="POWER SERVICE" />
     </histories>
     <option name="languageScores">
       <map>
