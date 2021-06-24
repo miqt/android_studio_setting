@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="set On Boot Received Listener" />
       <item value="resident" />
       <item value="PERSISTENT CONFIG" />
       <item value="visit Var Insn" />
@@ -55,7 +56,6 @@
       <item value="Unable to resolve dependency for ':libuvccamera@releaseUnitTestcompileClasspath': Could not resolve com.serenegiant:common:7.15.0." />
       <item value="Invalid Gradle JDK configuration found" />
       <item value="invoke" />
-      <item value="into" />
     </histories>
     <option name="languageScores">
       <map>
