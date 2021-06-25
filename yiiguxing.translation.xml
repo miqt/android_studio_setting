@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="ACTION MANAGE OVERLAY PERMISSION" />
+      <item value="enable Lights" />
+      <item value="set Show Badge" />
       <item value="Persistent lock myself failed and try again as %d times" />
       <item value="DAEMON ASSISTANT CONFIG" />
       <item value="set On Boot Received Listener" />
@@ -53,9 +56,6 @@
       <item value="The armeabi ABI is no longer supported." />
       <item value="unsupported" />
       <item value="non-zero" />
-      <item value="Unable to resolve dependency" />
-      <item value="Unable to resolve dependency for ':libuvccamera@releaseUnitTestcompileClasspath': Could not resolve com.serenegiant:common:7.15.0." />
-      <item value="Invalid Gradle JDK configuration found" />
     </histories>
     <option name="languageScores">
       <map>
