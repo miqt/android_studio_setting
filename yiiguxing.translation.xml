@@ -5,7 +5,9 @@
     <option name="newTranslationDialogWidth" value="674" />
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="VOLUME CHANGED" />
       <item value="set Lockscreen Visibility" />
       <item value="set Show Badge" />
       <item value="is Music Play Enabled" />
@@ -55,7 +57,6 @@
       <item value="MESSAGE SEND STATE FOR EDITING" />
       <item value="ACTION REQUEST IGNORE BATTERY OPTIMIZATIONS" />
       <item value="Aspect Ratio View Interface" />
-      <item value="I Video Encoder" />
     </histories>
     <option name="languageScores">
       <map>
