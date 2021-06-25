@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="Jump" />
       <item value="ACTION MANAGE OVERLAY PERMISSION" />
       <item value="enable Lights" />
       <item value="set Show Badge" />
@@ -55,7 +56,6 @@
       <item value="TextureView doesn't support displaying a background drawable" />
       <item value="The armeabi ABI is no longer supported." />
       <item value="unsupported" />
-      <item value="non-zero" />
     </histories>
     <option name="languageScores">
       <map>
