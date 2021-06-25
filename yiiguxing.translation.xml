@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="Persistent lock myself failed and try again as %d times" />
       <item value="DAEMON ASSISTANT CONFIG" />
       <item value="set On Boot Received Listener" />
       <item value="resident" />
@@ -16,7 +17,6 @@
       <item value="CIRCULAR REFERENCE" />
       <item value="Invalid empty classfile" />
       <item value="Auto Try Catch" />
-      <item value="Persistent lock myself failed and try again as %d times" />
       <item value="Account Auth" />
       <item value="Account" />
       <item value="abs" />
