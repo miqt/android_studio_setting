@@ -6,12 +6,13 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="set Lockscreen Visibility" />
+      <item value="set Show Badge" />
       <item value="is Music Play Enabled" />
       <item value="ASTORE" />
       <item value="Jump" />
       <item value="ACTION MANAGE OVERLAY PERMISSION" />
       <item value="enable Lights" />
-      <item value="set Show Badge" />
       <item value="Persistent lock myself failed and try again as %d times" />
       <item value="DAEMON ASSISTANT CONFIG" />
       <item value="set On Boot Received Listener" />
@@ -55,7 +56,6 @@
       <item value="ACTION REQUEST IGNORE BATTERY OPTIMIZATIONS" />
       <item value="Aspect Ratio View Interface" />
       <item value="I Video Encoder" />
-      <item value="TextureView doesn't support displaying a background drawable" />
     </histories>
     <option name="languageScores">
       <map>
