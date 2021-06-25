@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="is Music Play Enabled" />
       <item value="ASTORE" />
       <item value="Jump" />
       <item value="ACTION MANAGE OVERLAY PERMISSION" />
@@ -55,7 +56,6 @@
       <item value="Aspect Ratio View Interface" />
       <item value="I Video Encoder" />
       <item value="TextureView doesn't support displaying a background drawable" />
-      <item value="The armeabi ABI is no longer supported." />
     </histories>
     <option name="languageScores">
       <map>
