@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="显示屏" />
+      <item value="capture Compression" />
+      <item value="UVC Camera Handler Multi Surface" />
+      <item value="capture Still" />
       <item value="VOLUME CHANGED" />
       <item value="set Lockscreen Visibility" />
       <item value="set Show Badge" />
@@ -53,10 +57,6 @@
       <item value="m Invoke Visualized Enabled" />
       <item value="enable Visualized Auto Track" />
       <item value="Should be called whenever a new Activity appears in the application." />
-      <item value="Crawler" />
-      <item value="MESSAGE SEND STATE FOR EDITING" />
-      <item value="ACTION REQUEST IGNORE BATTERY OPTIMIZATIONS" />
-      <item value="Aspect Ratio View Interface" />
     </histories>
     <option name="languageScores">
       <map>
