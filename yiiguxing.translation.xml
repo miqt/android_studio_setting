@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="stop Recording" />
       <item value="显示屏" />
       <item value="capture Compression" />
       <item value="UVC Camera Handler Multi Surface" />
@@ -56,7 +57,6 @@
       <item value="翻译" />
       <item value="m Invoke Visualized Enabled" />
       <item value="enable Visualized Auto Track" />
-      <item value="Should be called whenever a new Activity appears in the application." />
     </histories>
     <option name="languageScores">
       <map>
