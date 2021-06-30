@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="UVC Camera Handler Multi Surface" />
       <item value="set true if you want to record movie using MediaSurfaceEncoder (writing frame data into Surface camera from MediaCodec by almost same way as USBCameratest2) set false if you want to record movie using MediaVideoEncoder" />
       <item value="instrumentation" />
       <item value="it`s important ! to prevent from deadlock" />
@@ -14,7 +15,6 @@
       <item value="stop Recording" />
       <item value="显示屏" />
       <item value="capture Compression" />
-      <item value="UVC Camera Handler Multi Surface" />
       <item value="capture Still" />
       <item value="VOLUME CHANGED" />
       <item value="set Lockscreen Visibility" />
