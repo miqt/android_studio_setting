@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="No implementation found for" />
       <item value="keystore password was incorrect" />
       <item value="ACTION MANAGE OVERLAY PERMISSION" />
       <item value="ASK" />
@@ -56,7 +57,6 @@
       <item value="start Recording" />
       <item value="声音" />
       <item value="invalid number for field exclude" />
-      <item value="USE SURFACE ENCODER" />
     </histories>
     <option name="languageScores">
       <map>
