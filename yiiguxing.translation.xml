@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Gradle project cmake.path specifies Android.mk but it must be CMakeLists.txt" />
+      <item value="does not appear" />
+      <item value="CMake '3.10.2' found in SDK did not match requested version '21.4.7075529'." />
       <item value="NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [21.4.7075529] in all native modules in the project." />
       <item value="Unsupported Modules Detected: Compilation is not supported for following modules: UVCCamera.usbCameraTest, UVCCamera.usbCameraTest2, UVCCamera.usbCameraTest3, UVCCamera.usbCameraTest4, UVCCamera.usbCameraTest5, UVCCamera.usbCameraTest6, UVCCamera.usbCameraTest7, UVCCamera.usbCameraTest8. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
       <item value="A problem occurred evaluating project" />
@@ -54,9 +57,6 @@
       <item value="Invalid empty classfile" />
       <item value="Auto Try Catch" />
       <item value="Account Auth" />
-      <item value="Account" />
-      <item value="abs" />
-      <item value="on Perform Sync" />
     </histories>
     <option name="languageScores">
       <map>
