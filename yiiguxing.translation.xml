@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ACTION MANAGE OVERLAY PERMISSION" />
       <item value="ASK" />
       <item value="native Update Contrast Limit" />
       <item value="native Update Brightness Limit" />
@@ -26,7 +27,6 @@
       <item value="is Music Play Enabled" />
       <item value="ASTORE" />
       <item value="Jump" />
-      <item value="ACTION MANAGE OVERLAY PERMISSION" />
       <item value="enable Lights" />
       <item value="Persistent lock myself failed and try again as %d times" />
       <item value="DAEMON ASSISTANT CONFIG" />
