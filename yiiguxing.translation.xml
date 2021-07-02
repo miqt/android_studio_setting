@@ -7,6 +7,13 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CHANNEL OUT STEREO" />
+      <item value="CHANNEL IN STEREO" />
+      <item value="CHANNEL IN PRESSURE" />
+      <item value="CHANNEL IN LEFT PROCESSED" />
+      <item value="CHANNEL IN FRONT" />
+      <item value="CHANNEL IN VOICE UPLINK" />
+      <item value="CHANNEL IN VOICE DNLINK" />
       <item value="CHANNEL OUT QUAD" />
       <item value="CHANNEL OUT FRONT CENTER" />
       <item value="CHANNEL OUT LOW FREQUENCY" />
@@ -22,12 +29,7 @@
       <item value="CHANNEL OUT_7 POINT 1_SURROUND" />
       <item value="CHANNEL OUT_5 POINT 1" />
       <item value="CHANNEL OUT_5 POINT 1_SIDE" />
-      <item value="CHANNEL OUT STEREO" />
-      <item value="CHANNEL IN STEREO" />
-      <item value="CHANNEL IN PRESSURE" />
-      <item value="CHANNEL IN FRONT" />
       <item value="CHANNEL IN LEFT" />
-      <item value="CHANNEL IN LEFT PROCESSED" />
       <item value="Missing Permission" />
       <item value="Returns the first element in this list" />
       <item value="called on an uninitialized AudioRecord." />
@@ -55,8 +57,6 @@
       <item value="Unsupported Operation Exception" />
       <item value="Gradle project cmake.path specifies Android.mk but it must be CMakeLists.txt" />
       <item value="does not appear" />
-      <item value="CMake '3.10.2' found in SDK did not match requested version '21.4.7075529'." />
-      <item value="NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [21.4.7075529] in all native modules in the project." />
     </histories>
     <option name="languageScores">
       <map>
