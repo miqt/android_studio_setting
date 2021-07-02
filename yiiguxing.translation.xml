@@ -7,6 +7,23 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Should be ENCODING_PCM_8BIT, ENCODING_PCM_16BIT, or ENCODING_PCM_FLOAT." />
+      <item value="Unsupported sample encoding 10" />
+      <item value="ENCODING AAC HE V 1" />
+      <item value="ENCODING AAC LC" />
+      <item value="ENCODING DTS HD" />
+      <item value="ENCODING AC 3" />
+      <item value="ENCODING E_AC 3" />
+      <item value="CHANNEL OUT_7 POINT 1_SURROUND" />
+      <item value="CHANNEL OUT_5 POINT 1" />
+      <item value="CHANNEL OUT_5 POINT 1_SIDE" />
+      <item value="CHANNEL OUT STEREO" />
+      <item value="CHANNEL OUT QUAD" />
+      <item value="CHANNEL IN STEREO" />
+      <item value="CHANNEL IN PRESSURE" />
+      <item value="CHANNEL IN FRONT" />
+      <item value="CHANNEL IN LEFT" />
+      <item value="CHANNEL IN LEFT PROCESSED" />
       <item value="Missing Permission" />
       <item value="Returns the first element in this list" />
       <item value="called on an uninitialized AudioRecord." />
@@ -40,23 +57,6 @@
       <item value="A problem occurred evaluating project" />
       <item value="APP PLATFORM" />
       <item value="created Result" />
-      <item value="drag" />
-      <item value="RESULT RIGHT" />
-      <item value="RESULT SIDE" />
-      <item value="AUTO SIDE" />
-      <item value="AUTO VERTICAL" />
-      <item value="LANDSCAPE" />
-      <item value="You should not lock orientation of your activities, so that you can support a good user experience for any device or orientation" />
-      <item value="No implementation found for" />
-      <item value="keystore password was incorrect" />
-      <item value="ACTION MANAGE OVERLAY PERMISSION" />
-      <item value="ASK" />
-      <item value="native Update Contrast Limit" />
-      <item value="native Update Brightness Limit" />
-      <item value="audio" />
-      <item value="set true if you want to record movie using MediaSurfaceEncoder (writing frame data into Surface camera from MediaCodec by almost same way as USBCameratest2) set false if you want to record movie using MediaVideoEncoder" />
-      <item value="instrumentation" />
-      <item value="it`s important ! to prevent from deadlock" />
     </histories>
     <option name="languageScores">
       <map>
