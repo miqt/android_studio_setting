@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Video Encoder" />
       <item value="set Match Parent" />
       <item value="CURRENT ACTIVITY" />
       <item value="request Disallow Intercept Touch Event" />
@@ -56,7 +57,6 @@
       <item value="PERSISTENT CONFIG" />
       <item value="visit Var Insn" />
       <item value="Compilation Failed Exception" />
-      <item value="Compilation failed to complete, position:" />
     </histories>
     <option name="languageScores">
       <map>
