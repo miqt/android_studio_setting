@@ -7,7 +7,17 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the first element in this list" />
+      <item value="called on an uninitialized AudioRecord." />
+      <item value="Invalid audio buffer size." />
+      <item value="CHANNEL IN MONO" />
+      <item value="audio Param Check" />
+      <item value="Unsupported channel configuration" />
+      <item value="called on an uninitialized AudioRecord" />
+      <item value="Illegal State Exception" />
+      <item value="uninitialized AudioRecord." />
       <item value="CAMCORDER" />
+      <item value="CHANNEL CONFIGURATION MONO" />
       <item value="DEFAULT" />
       <item value="frame Available Soon" />
       <item value="This class receives video images as ByteBuffer(strongly recommend direct ByteBuffer) as NV21(YUV420SP) and encode them to h.264. If you use this directly with IFrameCallback, you should know UVCCamera and it backend native libraries never execute color space conversion. This means that color tone of resulted movie will be different from that you expectedcan see on screen." />
@@ -47,16 +57,6 @@
       <item value="instrumentation" />
       <item value="it`s important ! to prevent from deadlock" />
       <item value="disclaimer" />
-      <item value="stop Recording" />
-      <item value="显示屏" />
-      <item value="capture Compression" />
-      <item value="capture Still" />
-      <item value="VOLUME CHANGED" />
-      <item value="set Lockscreen Visibility" />
-      <item value="set Show Badge" />
-      <item value="is Music Play Enabled" />
-      <item value="ASTORE" />
-      <item value="Jump" />
     </histories>
     <option name="languageScores">
       <map>
