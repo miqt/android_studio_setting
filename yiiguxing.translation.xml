@@ -7,6 +7,13 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="frame Available Soon" />
+      <item value="YVU 420 Semi Planar" />
+      <item value="UVC Camera Handler Multi Surface" />
+      <item value="PIXEL FORMAT NV 21" />
+      <item value="for audio capturing" />
+      <item value="STATE INITIALIZED" />
+      <item value="CAMCORDER" />
       <item value="set Video Encoder" />
       <item value="set Match Parent" />
       <item value="CURRENT ACTIVITY" />
@@ -34,7 +41,6 @@
       <item value="native Update Contrast Limit" />
       <item value="native Update Brightness Limit" />
       <item value="audio" />
-      <item value="UVC Camera Handler Multi Surface" />
       <item value="set true if you want to record movie using MediaSurfaceEncoder (writing frame data into Surface camera from MediaCodec by almost same way as USBCameratest2) set false if you want to record movie using MediaVideoEncoder" />
       <item value="instrumentation" />
       <item value="it`s important ! to prevent from deadlock" />
@@ -51,12 +57,6 @@
       <item value="Jump" />
       <item value="enable Lights" />
       <item value="Persistent lock myself failed and try again as %d times" />
-      <item value="DAEMON ASSISTANT CONFIG" />
-      <item value="set On Boot Received Listener" />
-      <item value="resident" />
-      <item value="PERSISTENT CONFIG" />
-      <item value="visit Var Insn" />
-      <item value="Compilation Failed Exception" />
     </histories>
     <option name="languageScores">
       <map>
