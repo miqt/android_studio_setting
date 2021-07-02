@@ -7,13 +7,15 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CAMCORDER" />
+      <item value="DEFAULT" />
       <item value="frame Available Soon" />
+      <item value="This class receives video images as ByteBuffer(strongly recommend direct ByteBuffer) as NV21(YUV420SP) and encode them to h.264. If you use this directly with IFrameCallback, you should know UVCCamera and it backend native libraries never execute color space conversion. This means that color tone of resulted movie will be different from that you expectedcan see on screen." />
       <item value="YVU 420 Semi Planar" />
       <item value="UVC Camera Handler Multi Surface" />
       <item value="PIXEL FORMAT NV 21" />
       <item value="for audio capturing" />
       <item value="STATE INITIALIZED" />
-      <item value="CAMCORDER" />
       <item value="set Video Encoder" />
       <item value="set Match Parent" />
       <item value="CURRENT ACTIVITY" />
@@ -55,8 +57,6 @@
       <item value="is Music Play Enabled" />
       <item value="ASTORE" />
       <item value="Jump" />
-      <item value="enable Lights" />
-      <item value="Persistent lock myself failed and try again as %d times" />
     </histories>
     <option name="languageScores">
       <map>
