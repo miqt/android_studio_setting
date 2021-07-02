@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unsupported Operation Exception" />
       <item value="Gradle project cmake.path specifies Android.mk but it must be CMakeLists.txt" />
       <item value="does not appear" />
       <item value="CMake '3.10.2' found in SDK did not match requested version '21.4.7075529'." />
@@ -56,7 +57,6 @@
       <item value="CIRCULAR REFERENCE" />
       <item value="Invalid empty classfile" />
       <item value="Auto Try Catch" />
-      <item value="Account Auth" />
     </histories>
     <option name="languageScores">
       <map>
