@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CHANNEL OUT QUAD" />
+      <item value="CHANNEL OUT FRONT CENTER" />
+      <item value="CHANNEL OUT LOW FREQUENCY" />
+      <item value="CONTENT TYPE MUSIC" />
+      <item value="USAGE MEDIA" />
       <item value="Should be ENCODING_PCM_8BIT, ENCODING_PCM_16BIT, or ENCODING_PCM_FLOAT." />
       <item value="Unsupported sample encoding 10" />
       <item value="ENCODING AAC HE V 1" />
@@ -18,7 +23,6 @@
       <item value="CHANNEL OUT_5 POINT 1" />
       <item value="CHANNEL OUT_5 POINT 1_SIDE" />
       <item value="CHANNEL OUT STEREO" />
-      <item value="CHANNEL OUT QUAD" />
       <item value="CHANNEL IN STEREO" />
       <item value="CHANNEL IN PRESSURE" />
       <item value="CHANNEL IN FRONT" />
@@ -53,10 +57,6 @@
       <item value="does not appear" />
       <item value="CMake '3.10.2' found in SDK did not match requested version '21.4.7075529'." />
       <item value="NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [21.4.7075529] in all native modules in the project." />
-      <item value="Unsupported Modules Detected: Compilation is not supported for following modules: UVCCamera.usbCameraTest, UVCCamera.usbCameraTest2, UVCCamera.usbCameraTest3, UVCCamera.usbCameraTest4, UVCCamera.usbCameraTest5, UVCCamera.usbCameraTest6, UVCCamera.usbCameraTest7, UVCCamera.usbCameraTest8. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
-      <item value="A problem occurred evaluating project" />
-      <item value="APP PLATFORM" />
-      <item value="created Result" />
     </histories>
     <option name="languageScores">
       <map>
