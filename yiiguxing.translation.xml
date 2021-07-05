@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="standalone" />
       <item value="serviceistimealibrated" />
       <item value="CHANNEL OUT STEREO" />
       <item value="CHANNEL IN STEREO" />
@@ -56,7 +57,6 @@
       <item value="CURRENT ACTIVITY" />
       <item value="request Disallow Intercept Touch Event" />
       <item value="Unsupported Operation Exception" />
-      <item value="Gradle project cmake.path specifies Android.mk but it must be CMakeLists.txt" />
     </histories>
     <option name="languageScores">
       <map>
