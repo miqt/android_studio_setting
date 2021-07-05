@@ -7,6 +7,12 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="denied" />
+      <item value="starting" />
+      <item value="Load App Image Startup Cache" />
+      <item value="The system died;" />
+      <item value="Dead System Exception" />
+      <item value="earlier logs will point to the root cause" />
       <item value="standalone" />
       <item value="serviceistimealibrated" />
       <item value="CHANNEL OUT STEREO" />
@@ -51,12 +57,6 @@
       <item value="UVC Camera Handler Multi Surface" />
       <item value="PIXEL FORMAT NV 21" />
       <item value="for audio capturing" />
-      <item value="STATE INITIALIZED" />
-      <item value="set Video Encoder" />
-      <item value="set Match Parent" />
-      <item value="CURRENT ACTIVITY" />
-      <item value="request Disallow Intercept Touch Event" />
-      <item value="Unsupported Operation Exception" />
     </histories>
     <option name="languageScores">
       <map>
