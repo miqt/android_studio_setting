@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Persistent" />
       <item value="Dead Object Exception" />
       <item value="remove bind rules with uid = 10229have no policy" />
       <item value="SIGNAL KILL" />
@@ -56,7 +57,6 @@
       <item value="CAMCORDER" />
       <item value="CHANNEL CONFIGURATION MONO" />
       <item value="DEFAULT" />
-      <item value="frame Available Soon" />
     </histories>
     <option name="languageScores">
       <map>
