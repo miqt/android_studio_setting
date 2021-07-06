@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dead Object Exception" />
       <item value="remove bind rules with uid = 10229have no policy" />
       <item value="SIGNAL KILL" />
       <item value="SIGNAL QUIT" />
@@ -56,7 +57,6 @@
       <item value="CHANNEL CONFIGURATION MONO" />
       <item value="DEFAULT" />
       <item value="frame Available Soon" />
-      <item value="This class receives video images as ByteBuffer(strongly recommend direct ByteBuffer) as NV21(YUV420SP) and encode them to h.264. If you use this directly with IFrameCallback, you should know UVCCamera and it backend native libraries never execute color space conversion. This means that color tone of resulted movie will be different from that you expectedcan see on screen." />
     </histories>
     <option name="languageScores">
       <map>
