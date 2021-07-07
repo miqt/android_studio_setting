@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Persistent lock myself failed and try again" />
+      <item value="Persistent" />
       <item value="it`s important ! to prevent from deadlock" />
       <item value="observer daemon descriptor" />
       <item value="LOCK EX" />
@@ -14,7 +16,6 @@
       <item value="waitpid" />
       <item value="strcpy" />
       <item value="Removing unused resources requires unused code shrinking to be turned on" />
-      <item value="Persistent" />
       <item value="Dead Object Exception" />
       <item value="remove bind rules with uid = 10229have no policy" />
       <item value="SIGNAL KILL" />
@@ -56,7 +57,6 @@
       <item value="called on an uninitialized AudioRecord." />
       <item value="Invalid audio buffer size." />
       <item value="CHANNEL IN MONO" />
-      <item value="audio Param Check" />
     </histories>
     <option name="languageScores">
       <map>
