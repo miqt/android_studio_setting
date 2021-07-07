@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="LOCK EX" />
+      <item value="S IRUSR" />
+      <item value="waitpid" />
+      <item value="strcpy" />
       <item value="Removing unused resources requires unused code shrinking to be turned on" />
       <item value="Persistent" />
       <item value="Dead Object Exception" />
@@ -53,10 +57,6 @@
       <item value="audio Param Check" />
       <item value="Unsupported channel configuration" />
       <item value="called on an uninitialized AudioRecord" />
-      <item value="Illegal State Exception" />
-      <item value="uninitialized AudioRecord." />
-      <item value="CAMCORDER" />
-      <item value="CHANNEL CONFIGURATION MONO" />
     </histories>
     <option name="languageScores">
       <map>
