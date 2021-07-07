@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="it`s important ! to prevent from deadlock" />
+      <item value="observer daemon descriptor" />
       <item value="LOCK EX" />
       <item value="S IRUSR" />
       <item value="waitpid" />
@@ -55,8 +57,6 @@
       <item value="Invalid audio buffer size." />
       <item value="CHANNEL IN MONO" />
       <item value="audio Param Check" />
-      <item value="Unsupported channel configuration" />
-      <item value="called on an uninitialized AudioRecord" />
     </histories>
     <option name="languageScores">
       <map>
