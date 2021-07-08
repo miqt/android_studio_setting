@@ -7,6 +7,16 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ask Advertising" />
+      <item value="Advertising" />
+      <item value="ask Module" />
+      <item value="ask Android Id" />
+      <item value="is Auto Track When No Ask Result" />
+      <item value="is Auto Track If No Ask Result" />
+      <item value="is Auto Track If No Ask" />
+      <item value="Id Ask Supporter" />
+      <item value="支持者" />
+      <item value="Id Ask" />
       <item value="pass_object_size serves two purposes here, neither of which involve __bos: it disqualifies this function from having its address taken (so &amp;open works), and it makes overload resolution prefer open(const char , int) over open(const char , int, ...)." />
       <item value="Implicit declaration of function 'get_process_name' is invalid in C99" />
       <item value="JNIEXPORT" />
@@ -47,16 +57,6 @@
       <item value="CHANNEL OUT LOW FREQUENCY" />
       <item value="CONTENT TYPE MUSIC" />
       <item value="USAGE MEDIA" />
-      <item value="Should be ENCODING_PCM_8BIT, ENCODING_PCM_16BIT, or ENCODING_PCM_FLOAT." />
-      <item value="Unsupported sample encoding 10" />
-      <item value="ENCODING AAC HE V 1" />
-      <item value="ENCODING AAC LC" />
-      <item value="ENCODING DTS HD" />
-      <item value="ENCODING AC 3" />
-      <item value="ENCODING E_AC 3" />
-      <item value="CHANNEL OUT_7 POINT 1_SURROUND" />
-      <item value="CHANNEL OUT_5 POINT 1" />
-      <item value="CHANNEL OUT_5 POINT 1_SIDE" />
     </histories>
     <option name="languageScores">
       <map>
