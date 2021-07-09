@@ -2,11 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="444" />
-    <option name="newTranslationDialogWidth" value="672" />
+    <option name="newTranslationDialogWidth" value="670" />
     <option name="newTranslationDialogX" value="1025" />
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="AI-powered coding assistant featuring code completion snippets for over 13 languages, advanced function signatures, and instant documentation. Code faster and stay in flow with Kite Autocomplete." />
+      <item value="lock file path" />
+      <item value="open" />
+      <item value="fdfdata" />
+      <item value="data" />
+      <item value="AI-powered coding assistant featuring code completion snippets for over 13 languages, advanced function signatures, and instant documentation. Code faster and stay in flow with Kite Autocomplete" />
       <item value="ask Advertising" />
       <item value="Advertising" />
       <item value="ask Module" />
@@ -51,12 +57,6 @@
       <item value="CHANNEL IN LEFT PROCESSED" />
       <item value="CHANNEL IN FRONT" />
       <item value="CHANNEL IN VOICE UPLINK" />
-      <item value="CHANNEL IN VOICE DNLINK" />
-      <item value="CHANNEL OUT QUAD" />
-      <item value="CHANNEL OUT FRONT CENTER" />
-      <item value="CHANNEL OUT LOW FREQUENCY" />
-      <item value="CONTENT TYPE MUSIC" />
-      <item value="USAGE MEDIA" />
     </histories>
     <option name="languageScores">
       <map>
