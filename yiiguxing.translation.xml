@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indicator Self Path" />
+      <item value="observer Self Path" />
       <item value="AI-powered coding assistant featuring code completion snippets for over 13 languages, advanced function signatures, and instant documentation. Code faster and stay in flow with Kite Autocomplete." />
       <item value="lock file path" />
       <item value="open" />
@@ -55,8 +57,6 @@
       <item value="CHANNEL IN STEREO" />
       <item value="CHANNEL IN PRESSURE" />
       <item value="CHANNEL IN LEFT PROCESSED" />
-      <item value="CHANNEL IN FRONT" />
-      <item value="CHANNEL IN VOICE UPLINK" />
     </histories>
     <option name="languageScores">
       <map>
