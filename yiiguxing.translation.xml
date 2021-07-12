@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Update Layer" />
+      <item value="is Hardware Accelerated" />
+      <item value="prohibit Elapsed Realtime Nanos" />
       <item value="nano Time" />
       <item value="is App Running Foreground" />
       <item value="bring App To Foreground" />
@@ -54,9 +57,6 @@
       <item value="denied" />
       <item value="starting" />
       <item value="Load App Image Startup Cache" />
-      <item value="The system died;" />
-      <item value="Dead System Exception" />
-      <item value="earlier logs will point to the root cause" />
     </histories>
     <option name="languageScores">
       <map>
