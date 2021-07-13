@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ここ以下はframe Interval Typeとintervalsからupdate Frame Rateで計算する" />
+      <item value="intervals" />
       <item value="LEGACY AUTO" />
       <item value="m Update Layer" />
       <item value="is Hardware Accelerated" />
@@ -55,8 +57,6 @@
       <item value="SIGNAL KILL" />
       <item value="SIGNAL QUIT" />
       <item value="Bad magic number for Bundle: 0x69004c" />
-      <item value="denied" />
-      <item value="starting" />
     </histories>
     <option name="languageScores">
       <map>
