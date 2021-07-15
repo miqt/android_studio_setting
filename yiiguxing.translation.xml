@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="accessible" />
+      <item value="Unresolved class 'R'" />
       <item value="is defined multiple" />
       <item value="is Satisfied By" />
       <item value="Composite Spec" />
@@ -55,8 +57,6 @@
       <item value="ask Advertising" />
       <item value="Advertising" />
       <item value="ask Module" />
-      <item value="ask Android Id" />
-      <item value="is Auto Track If No Ask Result" />
     </histories>
     <option name="languageScores">
       <map>
