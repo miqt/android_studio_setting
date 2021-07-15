@@ -7,6 +7,26 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is defined multiple" />
+      <item value="is Satisfied By" />
+      <item value="Composite Spec" />
+      <item value="Variants" />
+      <item value="supports Rtl" />
+      <item value="inner Name" />
+      <item value="name" />
+      <item value="outer Name" />
+      <item value="Forbidden" />
+      <item value="Entry name 'comdaemonR.class' collided" />
+      <item value="Breakpoint will not currently be hit. No executable code is associated with this line" />
+      <item value="Swipe Up Clean" />
+      <item value="set Has Overlay Ui" />
+      <item value="APPLICATION MESSAGE UPDATE" />
+      <item value="due to" />
+      <item value="denied" />
+      <item value="MIC" />
+      <item value="一番近いのを選ぶ" />
+      <item value="frame Interval Index" />
+      <item value="get Current Frame Rate" />
       <item value="d X Vp ZA" />
       <item value="Clang-Tidy: Function 'strcmp' is called without explicitly comparing result" />
       <item value="Not recommend using QUERY_ALL_PACKAGES. Use queries Instead." />
@@ -37,26 +57,6 @@
       <item value="ask Module" />
       <item value="ask Android Id" />
       <item value="is Auto Track If No Ask Result" />
-      <item value="is Auto Track If No Ask" />
-      <item value="Id Ask Supporter" />
-      <item value="支持者" />
-      <item value="Id Ask" />
-      <item value="pass_object_size serves two purposes here, neither of which involve __bos: it disqualifies this function from having its address taken (so &amp;open works), and it makes overload resolution prefer open(const char , int) over open(const char , int, ...)." />
-      <item value="Implicit declaration of function 'get_process_name' is invalid in C99" />
-      <item value="JNIEXPORT" />
-      <item value="const" />
-      <item value="JNI DETECTED ERROR IN APPLICATION" />
-      <item value="Format string is not a string literal (potentially insecure)" />
-      <item value="Persistent lock myself failed and try again" />
-      <item value="Persistent" />
-      <item value="it`s important ! to prevent from deadlock" />
-      <item value="observer daemon descriptor" />
-      <item value="LOCK EX" />
-      <item value="S IRUSR" />
-      <item value="waitpid" />
-      <item value="strcpy" />
-      <item value="Removing unused resources requires unused code shrinking to be turned on" />
-      <item value="Dead Object Exception" />
     </histories>
     <option name="languageScores">
       <map>
