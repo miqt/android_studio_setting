@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m Vendor Id" />
+      <item value="MACROSILICON" />
+      <item value="m Manufacturer Name" />
+      <item value="m Serial Number" />
       <item value="Positive" />
       <item value="Negative" />
       <item value="text Direction" />
@@ -53,10 +57,6 @@
       <item value="MICROSECONDS" />
       <item value="is Auto Track When No Ask Result" />
       <item value="indicator Self Path" />
-      <item value="observer Self Path" />
-      <item value="AI-powered coding assistant featuring code completion snippets for over 13 languages, advanced function signatures, and instant documentation. Code faster and stay in flow with Kite Autocomplete." />
-      <item value="lock file path" />
-      <item value="open" />
     </histories>
     <option name="languageScores">
       <map>
