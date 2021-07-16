@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Positive" />
+      <item value="Negative" />
+      <item value="text Direction" />
+      <item value="text Alignment" />
       <item value="_max intervals" />
       <item value="Null reference used for synchronization" />
       <item value="accessible" />
@@ -53,10 +57,6 @@
       <item value="AI-powered coding assistant featuring code completion snippets for over 13 languages, advanced function signatures, and instant documentation. Code faster and stay in flow with Kite Autocomplete." />
       <item value="lock file path" />
       <item value="open" />
-      <item value="fdfdata" />
-      <item value="data" />
-      <item value="AI-powered coding assistant featuring code completion snippets for over 13 languages, advanced function signatures, and instant documentation. Code faster and stay in flow with Kite Autocomplete" />
-      <item value="ask Advertising" />
     </histories>
     <option name="languageScores">
       <map>
