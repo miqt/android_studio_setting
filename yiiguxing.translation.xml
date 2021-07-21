@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="internal" />
       <item value="The default branch of a project cannot be deleted." />
       <item value="Field 'uriMatcher' may be 'final'" />
       <item value="depends On" />
@@ -56,7 +57,6 @@
       <item value="ここ以下はframe Interval Typeとintervalsからupdate Frame Rateで計算する" />
       <item value="intervals" />
       <item value="LEGACY AUTO" />
-      <item value="m Update Layer" />
     </histories>
     <option name="languageScores">
       <map>
