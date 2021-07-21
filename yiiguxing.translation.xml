@@ -7,6 +7,15 @@
     <option name="newTranslationDialogY" value="459" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PERMISSION DENIED" />
+      <item value="PERMISSION GRANTED" />
+      <item value="check Calling Or Self Permission" />
+      <item value="if no suitable permission is present" />
+      <item value="ACCESS FINE LOCATION" />
+      <item value="ACCESS COARSE LOCATION" />
+      <item value="&quot;passive&quot; location provider requires ACCESS_FINE_LOCATION permission" />
+      <item value="Failed to allocate a 17 byte allocation with 0 free bytes and 3GB until OOM" />
+      <item value="Software caused connection abort" />
       <item value="ASM Hook Adapter" />
       <item value="referenced" />
       <item value="dynamically" />
@@ -48,15 +57,6 @@
       <item value="set Has Overlay Ui" />
       <item value="APPLICATION MESSAGE UPDATE" />
       <item value="due to" />
-      <item value="denied" />
-      <item value="MIC" />
-      <item value="一番近いのを選ぶ" />
-      <item value="frame Interval Index" />
-      <item value="get Current Frame Rate" />
-      <item value="d X Vp ZA" />
-      <item value="Clang-Tidy: Function 'strcmp' is called without explicitly comparing result" />
-      <item value="Not recommend using QUERY_ALL_PACKAGES. Use queries Instead." />
-      <item value="Use the back-up url at the last time" />
     </histories>
     <option name="languageScores">
       <map>
